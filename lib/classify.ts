@@ -21,8 +21,8 @@ const FORMAT_KEYWORDS: [EventFormat, string[]][] = [
   ["Pitch", ["pitch night", "pitch roulette", "pitch"]],
   ["Talk", ["talk", "fireside", "speaker"]],
   ["Coworking", ["coworking", "co-working", "cowork", "work session", "open office"]],
-  ["Social", ["social", "party", "celebration", "beer pong", "game night", "trivia"]],
-  ["Game", ["game"]],
+  ["Game", ["poker", "cards", "game night", "game", "board game", "arcade", "trivia"]],
+  ["Social", ["social", "party", "celebration", "beer pong"]],
   [
     "Networking",
     ["networking", "mixer", "happy hour", "drinks", "founder friday"],
