@@ -1,0 +1,682 @@
+[
+  {
+    "id": "gtm-breakfast-sf",
+    "date": "2026-07-23",
+    "name": "Daytona AI GTM Breakfast - SF, July 2026 @Corgi Cafe",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/gtm-breakfast-sf"
+  },
+  {
+    "id": "rippling-0d7f",
+    "date": "2026-07-15",
+    "name": "Rippling x Corgi Founder Live Pitch Night ft Redpoint Ventures & Battery Ventures",
+    "format": "Pitch",
+    "partner": "Savanna Johnson",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/rippling-0d7f"
+  },
+  {
+    "id": "td42xz48",
+    "date": "2026-07-11",
+    "name": "Founders Demo Day @ Corgi Cafe",
+    "format": "Demo day",
+    "partner": "Vivian Cai",
+    "location": "San Francisco",
+    "attendees": 84,
+    "luma_url": "https://lu.ma/td42xz48"
+  },
+  {
+    "id": "wdj8ur9g",
+    "date": "2026-07-09",
+    "name": "YC Founder Headshots 📸",
+    "format": "Other",
+    "partner": "Arc",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/wdj8ur9g"
+  },
+  {
+    "id": "i6v87nq7",
+    "date": "2026-07-07",
+    "name": "YC S26 Founder Dinner @Corgi",
+    "format": "Other",
+    "partner": "Laura Dang",
+    "location": "San Francisco",
+    "attendees": 7,
+    "luma_url": "https://lu.ma/i6v87nq7"
+  },
+  {
+    "id": "qoder",
+    "date": "2026-07-02",
+    "name": "The Future of Agentic Engineering and AI Workforces with Qoder",
+    "format": "Other",
+    "partner": "AI Builders",
+    "location": "San Francisco",
+    "attendees": 116,
+    "luma_url": "https://lu.ma/qoder"
+  },
+  {
+    "id": "womentech-t1cp",
+    "date": "2026-07-01",
+    "name": "Women Tech Meetup: Building Without Permission",
+    "format": "Workshop",
+    "partner": "Dasha Shunina",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/womentech-t1cp"
+  },
+  {
+    "id": "n181x4b1",
+    "date": "2026-07-01",
+    "name": "Corgi Cafe Arcade",
+    "format": "Other",
+    "partner": "Kerry Farrell",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/n181x4b1"
+  },
+  {
+    "id": "yg5x8n8b",
+    "date": "2026-06-28",
+    "name": "Founders Cowork & Build @ Corgi Cafe w/ Floot",
+    "format": "Other",
+    "partner": "Vivian Cai",
+    "location": "San Francisco",
+    "attendees": 260,
+    "luma_url": "https://lu.ma/yg5x8n8b"
+  },
+  {
+    "id": "gxndj104",
+    "date": "2026-06-27",
+    "name": "Libra Cafe SF",
+    "format": "Other",
+    "partner": "Mansi Swami",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/gxndj104"
+  },
+  {
+    "id": "3sxdy3ph",
+    "date": "2026-06-27",
+    "name": "Corgi ☕️ NYC: Coworking + Coffee",
+    "format": "Coworking",
+    "partner": "jamie",
+    "location": "New York",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/3sxdy3ph"
+  },
+  {
+    "id": "81yhuby4",
+    "date": "2026-06-26",
+    "name": "SIC x Mobbin Post-Config Board Game Mixer 🎲",
+    "format": "Game",
+    "partner": "Alice Lan",
+    "location": "San Francisco",
+    "attendees": 208,
+    "luma_url": "https://lu.ma/81yhuby4"
+  },
+  {
+    "id": "umy1pmhc",
+    "date": "2026-06-26",
+    "name": "⚽️ World Cup Watch Party | USA vs Turkey @Corgi w/ Raisi & OKX",
+    "format": "Social",
+    "partner": "Laura Dang",
+    "location": "San Francisco",
+    "attendees": 145,
+    "luma_url": "https://lu.ma/umy1pmhc"
+  },
+  {
+    "id": "fqqq8awj",
+    "date": "2026-06-26",
+    "name": "Founders Fashion Show",
+    "format": "Other",
+    "partner": "Laura Dang",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/fqqq8awj"
+  },
+  {
+    "id": "eqzwnjoz",
+    "date": "2026-06-25",
+    "name": "From AI Prototype to Production: AWS + Tech 42 for YC Founders",
+    "format": "Other",
+    "partner": "Lea Twizer",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/eqzwnjoz"
+  },
+  {
+    "id": "oylruw6i",
+    "date": "2026-06-24",
+    "name": "Preparing for Production Scale with AWS + Tech 42",
+    "format": "Other",
+    "partner": "Andy Vu",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/oylruw6i"
+  },
+  {
+    "id": "deeptech-game-night-sf-2026",
+    "date": "2026-06-24",
+    "name": "DeepTech Game Night with Alumni Ventures and Corgi",
+    "format": "Social",
+    "partner": "Alumni Ventures",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/deeptech-game-night-sf-2026"
+  },
+  {
+    "id": "ero64bq6",
+    "date": "2026-06-22",
+    "name": "The SF Grind: Deep Tech Week Coffee Meetup",
+    "format": "Other",
+    "partner": "Mina Bahrami",
+    "location": "San Francisco",
+    "attendees": 224,
+    "luma_url": "https://lu.ma/ero64bq6"
+  },
+  {
+    "id": "sf-tea-and-biscuits",
+    "date": "2026-06-20",
+    "name": "Tea & Biscuits Hackathon with Corgi and Codex",
+    "format": "Hackathon",
+    "partner": "Adam Chan",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/sf-tea-and-biscuits"
+  },
+  {
+    "id": "YC_Founders",
+    "date": "2026-06-20",
+    "name": "YC Founders on the Bay",
+    "format": "Other",
+    "partner": "Murray",
+    "location": "San Francisco",
+    "attendees": 82,
+    "luma_url": "https://lu.ma/YC_Founders"
+  },
+  {
+    "id": "uq6ci152",
+    "date": "2026-06-19",
+    "name": "The SF Grind: SF Startup Community Coffee Meetup",
+    "format": "Other",
+    "partner": "Mina Bahrami",
+    "location": "San Francisco",
+    "attendees": 99,
+    "luma_url": "https://lu.ma/uq6ci152"
+  },
+  {
+    "id": "bfedo8op",
+    "date": "2026-06-19",
+    "name": "GIVC SF VC & Operator Panel",
+    "format": "Panel",
+    "partner": "Sarah Phillips",
+    "location": "San Francisco",
+    "attendees": 72,
+    "luma_url": "https://lu.ma/bfedo8op"
+  },
+  {
+    "id": "findmycofounder",
+    "date": "2026-06-18",
+    "name": "Find My Cofounder: A Night for Women Builders",
+    "format": "Other",
+    "partner": "Mimi Do",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/findmycofounder"
+  },
+  {
+    "id": "4y89vpyu",
+    "date": "2026-06-15",
+    "name": "Marketing & GTM Fireside Chat @ Corgi Cafe",
+    "format": "Talk",
+    "partner": "Vivian Cai",
+    "location": "San Francisco",
+    "attendees": 387,
+    "luma_url": "https://lu.ma/4y89vpyu"
+  },
+  {
+    "id": "74nl93wi",
+    "date": "2026-06-13",
+    "name": "Smoothies & Strategies on AI Marketing & Growth 🧋",
+    "format": "Other",
+    "partner": "Keana Alabre",
+    "location": "San Francisco",
+    "attendees": 198,
+    "luma_url": "https://lu.ma/74nl93wi"
+  },
+  {
+    "id": "h4ls0xqf",
+    "date": "2026-06-11",
+    "name": "SimpleReset Wellness Pop-up by SimpleClosure",
+    "format": "Other",
+    "partner": "Monica Petchakan",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/h4ls0xqf"
+  },
+  {
+    "id": "boardy-corgi",
+    "date": "2026-06-10",
+    "name": "Boardy Live: Building (and Raising) at Full Speed with Nico Laqua, CEO of Corgi",
+    "format": "Workshop",
+    "partner": "Boardy Ai",
+    "location": "Unknown",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/boardy-corgi"
+  },
+  {
+    "id": "ancbcgas",
+    "date": "2026-06-06",
+    "name": "Canopy After Party",
+    "format": "Social",
+    "partner": "Joy Park",
+    "location": "San Francisco",
+    "attendees": 219,
+    "luma_url": "https://lu.ma/ancbcgas"
+  },
+  {
+    "id": "9bidhfct",
+    "date": "2026-06-02",
+    "name": "Solana x Corgi: After-Work Builder Hang",
+    "format": "Other",
+    "partner": "josh",
+    "location": "San Francisco",
+    "attendees": 398,
+    "luma_url": "https://lu.ma/9bidhfct"
+  },
+  {
+    "id": "8nmf2759",
+    "date": "2026-05-30",
+    "name": "SF Poker Club: Poker Night (NOT for Dummies)",
+    "format": "Other",
+    "partner": "Basil Chatha",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/8nmf2759"
+  },
+  {
+    "id": "3n4ntouj",
+    "date": "2026-05-29",
+    "name": "Caffeine & Capital @ Corgi with Startup Intros",
+    "format": "Other",
+    "partner": "Dev Chandra",
+    "location": "San Francisco",
+    "attendees": 119,
+    "luma_url": "https://lu.ma/3n4ntouj"
+  },
+  {
+    "id": "ujovv3m8",
+    "date": "2026-05-23",
+    "name": "Wanna Work at Corgi? 🐕",
+    "format": "Other",
+    "partner": "Laura Dang",
+    "location": "San Francisco",
+    "attendees": 191,
+    "luma_url": "https://lu.ma/ujovv3m8"
+  },
+  {
+    "id": "b8tg4qst",
+    "date": "2026-05-23",
+    "name": "Post-I/O: After Work with Google DeepMind",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 400,
+    "luma_url": "https://lu.ma/b8tg4qst"
+  },
+  {
+    "id": "s8ax4zfy",
+    "date": "2026-05-22",
+    "name": "Growing Pains: Scaling Early Go-to-Market",
+    "format": "Other",
+    "partner": "Karissa Paddie",
+    "location": "San Francisco",
+    "attendees": 302,
+    "luma_url": "https://lu.ma/s8ax4zfy"
+  },
+  {
+    "id": "9722g53g",
+    "date": "2026-05-21",
+    "name": "Agent Engineering Support Group with Voker",
+    "format": "Other",
+    "partner": "Tyler Postle",
+    "location": "San Francisco",
+    "attendees": 23,
+    "luma_url": "https://lu.ma/9722g53g"
+  },
+  {
+    "id": "5ekrcijp",
+    "date": "2026-05-21",
+    "name": "Hiring Dinner: Building Teams in Hypergrowth",
+    "format": "Workshop",
+    "partner": "Bruno Cunha",
+    "location": "San Francisco",
+    "attendees": 240,
+    "luma_url": "https://lu.ma/5ekrcijp"
+  },
+  {
+    "id": "bgjphe5v",
+    "date": "2026-05-21",
+    "name": "Pentagon × Corgi: Smoothies & the Future of AI",
+    "format": "Other",
+    "partner": "Laura Dang",
+    "location": "San Francisco",
+    "attendees": 38,
+    "luma_url": "https://lu.ma/bgjphe5v"
+  },
+  {
+    "id": "tt7sweic",
+    "date": "2026-05-16",
+    "name": "Lopus Launch Party @ Salesforce Park",
+    "format": "Social",
+    "partner": "Danylo Borodchuk",
+    "location": "San Francisco",
+    "attendees": 467,
+    "luma_url": "https://lu.ma/tt7sweic"
+  },
+  {
+    "id": "5spmcs8p",
+    "date": "2026-05-16",
+    "name": "Skalpel Launch Party",
+    "format": "Social",
+    "partner": "Ryan Deng",
+    "location": "San Francisco",
+    "attendees": 208,
+    "luma_url": "https://lu.ma/5spmcs8p"
+  },
+  {
+    "id": "k248borb",
+    "date": "2026-05-15",
+    "name": "Caffeine & Capital @ Corgi with Startup Intros",
+    "format": "Other",
+    "partner": "Dev Chandra",
+    "location": "San Francisco",
+    "attendees": 104,
+    "luma_url": "https://lu.ma/k248borb"
+  },
+  {
+    "id": "h06u0dux",
+    "date": "2026-05-14",
+    "name": "Hello World Launch Party by Anything",
+    "format": "Social",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 645,
+    "luma_url": "https://lu.ma/h06u0dux"
+  },
+  {
+    "id": "b7kg8vno",
+    "date": "2026-05-13",
+    "name": "Agent Building Day @ Corgi Cafe",
+    "format": "Workshop",
+    "partner": "Graham Cummings",
+    "location": "San Francisco",
+    "attendees": 300,
+    "luma_url": "https://lu.ma/b7kg8vno"
+  },
+  {
+    "id": "snz96e5m",
+    "date": "2026-05-12",
+    "name": "AI Comedy Night: Builder's Confessions",
+    "format": "Other",
+    "partner": "Kaia",
+    "location": "Unknown",
+    "attendees": 105,
+    "luma_url": "https://lu.ma/snz96e5m"
+  },
+  {
+    "id": "iqc1s9b1",
+    "date": "2026-05-09",
+    "name": "cafe & code at Corgi",
+    "format": "Other",
+    "partner": "Harnoor Singh",
+    "location": "San Francisco",
+    "attendees": 383,
+    "luma_url": "https://lu.ma/iqc1s9b1"
+  },
+  {
+    "id": "g6ekcuu9",
+    "date": "2026-05-08",
+    "name": "Deskmate Coworking Popup @ Corgi Cafe",
+    "format": "Coworking",
+    "partner": "Amber Shen",
+    "location": "San Francisco",
+    "attendees": 29,
+    "luma_url": "https://lu.ma/g6ekcuu9"
+  },
+  {
+    "id": "gibetuk0",
+    "date": "2026-05-08",
+    "name": "Building Without Borders: The New Playbook for Global Founders",
+    "format": "Workshop",
+    "partner": "e-America 🇺🇸",
+    "location": "San Francisco",
+    "attendees": 82,
+    "luma_url": "https://lu.ma/gibetuk0"
+  },
+  {
+    "id": "gym2160b",
+    "date": "2026-05-05",
+    "name": "Founders Game Night: Corgi x Rho",
+    "format": "Social",
+    "partner": "Laura Dang",
+    "location": "San Francisco",
+    "attendees": 81,
+    "luma_url": "https://lu.ma/gym2160b"
+  },
+  {
+    "id": "kx6quajw",
+    "date": "2026-05-01",
+    "name": "The SF Grind: SF Startup Community Coffee Meetup",
+    "format": "Other",
+    "partner": "Mina Bahrami",
+    "location": "San Francisco",
+    "attendees": 86,
+    "luma_url": "https://lu.ma/kx6quajw"
+  },
+  {
+    "id": "0to8z3hy",
+    "date": "2026-05-01",
+    "name": "Power Hour - Clarity X Corgi - A Stripe Sessions Event",
+    "format": "Other",
+    "partner": "Dan",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/0to8z3hy"
+  },
+  {
+    "id": "fsc7guj1",
+    "date": "2026-04-30",
+    "name": "Fireside Chat with Corgi CEO & COO",
+    "format": "Talk",
+    "partner": "Aaliyah Barker",
+    "location": "San Francisco",
+    "attendees": 46,
+    "luma_url": "https://lu.ma/fsc7guj1"
+  },
+  {
+    "id": "dawnpatrol428",
+    "date": "2026-04-28",
+    "name": "Dawn Patrol: Founder Coffee Meetup - 4/28",
+    "format": "Other",
+    "partner": "Jason Yeh",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/dawnpatrol428"
+  },
+  {
+    "id": "kd7iicry",
+    "date": "2026-04-28",
+    "name": "Batter Up! San Francisco",
+    "format": "Other",
+    "partner": "Hustle Fund",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/kd7iicry"
+  },
+  {
+    "id": "j4x16ldx",
+    "date": "2026-04-25",
+    "name": "Pho Real: Free Pho with Photon x Corgi",
+    "format": "Other",
+    "partner": "Julie Chen",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/j4x16ldx"
+  },
+  {
+    "id": "815cunbv",
+    "date": "2026-04-24",
+    "name": "Raisi x Corgi Dinner @ Corgi HQ for Pre-Seed/ Seed Founders and Investors",
+    "format": "Other",
+    "partner": "Robert Harary",
+    "location": "San Francisco",
+    "attendees": 49,
+    "luma_url": "https://lu.ma/815cunbv"
+  },
+  {
+    "id": "f2tlaoqe",
+    "date": "2026-04-24",
+    "name": "Founder Game Night + Fundraising Conversation @ Corgi Cafe",
+    "format": "Social",
+    "partner": "Robert Harary",
+    "location": "San Francisco",
+    "attendees": 105,
+    "luma_url": "https://lu.ma/f2tlaoqe"
+  },
+  {
+    "id": "34vzahya",
+    "date": "2026-04-23",
+    "name": "LinkedIn Legends",
+    "format": "Other",
+    "partner": "Patrick Kealy",
+    "location": "San Francisco",
+    "attendees": 33,
+    "luma_url": "https://lu.ma/34vzahya"
+  },
+  {
+    "id": "msqtg9uh",
+    "date": "2026-04-20",
+    "name": "SF Start-Up Coverage (Get Free Views)",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 78,
+    "luma_url": "https://lu.ma/msqtg9uh"
+  },
+  {
+    "id": "iiexoonu",
+    "date": "2026-04-17",
+    "name": "Caffeine & Capital @ Corgi with Startup Intros",
+    "format": "Other",
+    "partner": "Dev Chandra",
+    "location": "San Francisco",
+    "attendees": 163,
+    "luma_url": "https://lu.ma/iiexoonu"
+  },
+  {
+    "id": "2ehb9hcx",
+    "date": "2026-04-17",
+    "name": "Growing Pains: Hiring a Founding Engineer (and other early hires)",
+    "format": "Other",
+    "partner": "Karissa Paddie",
+    "location": "San Francisco",
+    "attendees": 226,
+    "luma_url": "https://lu.ma/2ehb9hcx"
+  },
+  {
+    "id": "jm3p4i1x",
+    "date": "2026-04-16",
+    "name": "Founder's Dinner",
+    "format": "Other",
+    "partner": "Patrick Kealy",
+    "location": "San Francisco",
+    "attendees": 40,
+    "luma_url": "https://lu.ma/jm3p4i1x"
+  },
+  {
+    "id": "l25rob03",
+    "date": "2026-04-16",
+    "name": "The AI Demo Series: April Edition",
+    "format": "Demo day",
+    "partner": "Startup Grind",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/l25rob03"
+  },
+  {
+    "id": "7dqxc9aj",
+    "date": "2026-04-09",
+    "name": "Finding the Perfect Prompt | Vibe Code Night with Anything.com & AI Snack Club",
+    "format": "Other",
+    "partner": "Monica Abrams",
+    "location": "San Francisco",
+    "attendees": 46,
+    "luma_url": "https://lu.ma/7dqxc9aj"
+  },
+  {
+    "id": "t5tct5jo",
+    "date": "2026-04-06",
+    "name": "Easter Coworking - Build Anything",
+    "format": "Coworking",
+    "partner": "Annie Liao",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/t5tct5jo"
+  },
+  {
+    "id": "96l2yuh0",
+    "date": "2026-04-03",
+    "name": "Woof Woof Work",
+    "format": "Other",
+    "partner": "Manna Patiparnprechavut",
+    "location": "San Francisco",
+    "attendees": 114,
+    "luma_url": "https://lu.ma/96l2yuh0"
+  },
+  {
+    "id": "e8gwzmio",
+    "date": "2026-04-03",
+    "name": "Caffeine & Capital @ Corgi with Startup Intros",
+    "format": "Other",
+    "partner": "Dev Chandra",
+    "location": "San Francisco",
+    "attendees": 192,
+    "luma_url": "https://lu.ma/e8gwzmio"
+  },
+  {
+    "id": "d3r7yavw",
+    "date": "2026-03-29",
+    "name": "Open Mic for Founders",
+    "format": "Other",
+    "partner": "Aviral",
+    "location": "San Francisco",
+    "attendees": 36,
+    "luma_url": "https://lu.ma/d3r7yavw"
+  },
+  {
+    "id": "4kndh47z",
+    "date": "2026-03-28",
+    "name": "Golden Hour Co-Working",
+    "format": "Coworking",
+    "partner": "Lily Yang",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/4kndh47z"
+  },
+  {
+    "id": "qb5j8d1i",
+    "date": "2026-03-28",
+    "name": "The Intro Round: Speed Networking for Female Founders",
+    "format": "Networking",
+    "partner": "The Den",
+    "location": "San Francisco",
+    "attendees": 30,
+    "luma_url": "https://lu.ma/qb5j8d1i"
+  }
+]
