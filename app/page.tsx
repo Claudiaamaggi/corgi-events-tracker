@@ -108,7 +108,7 @@ export default function Dashboard() {
 
   const totalEvents = events.length;
   const totalAttendees = events.reduce((s, e) => s + e.attendees, 0);
-  const totalCities = new Set(events.map((e) => e.location)).size;
+  const totalCities = new Set(events.map((e) => e.location).filter((l) => l !== "Online")).size;
   const avgAttendees =
     totalEvents > 0 ? Math.round(totalAttendees / totalEvents) : 0;
 
