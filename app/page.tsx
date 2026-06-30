@@ -283,7 +283,7 @@ export default function Dashboard() {
                       📍 {event.location}
                     </td>
                     <td className="px-5 py-3 text-right text-gray-700 font-medium tabular-nums">
-                      {event.attendees.toLocaleString()}
+                      {event.attendees > 0 ? event.attendees.toLocaleString() : "—"}
                     </td>
                   </tr>
                 ))

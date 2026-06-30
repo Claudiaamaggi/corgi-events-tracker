@@ -20,7 +20,7 @@ const FORMAT_KEYWORDS: [EventFormat, string[]][] = [
   ["AMA", ["ama", "ask me anything"]],
   ["Pitch", ["pitch night", "pitch roulette", "pitch"]],
   ["Talk", ["talk", "fireside", "speaker"]],
-  ["Coworking", ["coworking", "co-working", "work session", "open office"]],
+  ["Coworking", ["coworking", "co-working", "cowork", "work session", "open office"]],
   ["Social", ["social", "party", "celebration", "beer pong", "game night", "trivia"]],
   ["Game", ["game"]],
   [
