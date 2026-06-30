@@ -49,7 +49,7 @@ async function main() {
         ...event,
         format,
         attendees: details.attendees || event.attendees,
-        partner: details.partner ?? event.partner,
+        partner: event.partner,
       });
     }
 

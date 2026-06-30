@@ -36,7 +36,7 @@ type SortKey = "newest" | "oldest" | "attendees" | "alpha";
 const ROWS_PER_PAGE = 20;
 
 function exportCSV(rows: CorgiEvent[]) {
-  const header = "Date,Name,Format,Host,Location,Attendees,URL";
+  const header = "Date,Name,Format,Partner/Host,Location,Attendees,URL";
   const lines = rows.map(
     (e) =>
       `${e.date},"${e.name.replace(/"/g, '""')}",${e.format},"${(e.partner ?? "").replace(/"/g, '""')}",${e.location},${e.attendees},${e.luma_url}`
@@ -228,7 +228,7 @@ export default function Dashboard() {
                   Format
                 </th>
                 <th className="px-5 py-3.5 font-semibold text-gray-600">
-                  Host
+                  Partner/Host
                 </th>
                 <th className="px-5 py-3.5 font-semibold text-gray-600">
                   Location
@@ -277,7 +277,7 @@ export default function Dashboard() {
                       </span>
                     </td>
                     <td className="px-5 py-3 text-gray-500">
-                      {event.partner ?? "—"}
+                      {event.partner ?? "Corgi"}
                     </td>
                     <td className="px-5 py-3 text-gray-600 whitespace-nowrap">
                       📍 {event.location}

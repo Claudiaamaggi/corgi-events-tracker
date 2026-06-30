@@ -27,6 +27,11 @@ interface LumaApiEntry {
       city?: string;
     };
   };
+  calendar?: {
+    name?: string;
+    slug?: string | null;
+    personal_user_api_id?: string | null;
+  };
 }
 
 interface LumaCalendarResponse {
@@ -46,6 +51,23 @@ function extractCity(entry: LumaApiEntry): string {
   if (geoJson?.city) return geoJson.city;
 
   return "Online";
+}
+
+function extractPartner(entry: LumaApiEntry): string | null {
+  const cal = entry.calendar;
+  if (!cal) return null;
+
+  const isOrg =
+    cal.personal_user_api_id === null &&
+    cal.slug !== null &&
+    cal.slug !== undefined;
+
+  if (!isOrg) return null;
+
+  const name = (cal.name ?? "").trim();
+  if (!name || name.toLowerCase().includes("corgi")) return null;
+
+  return name;
 }
 
 async function fetchCalendarEvents(
@@ -98,7 +120,7 @@ export async function fetchAllEvents(): Promise<CorgiEvent[]> {
           date: evt.start_at.slice(0, 10),
           name: evt.name,
           format: classifyFormat(evt.name, evt.description),
-          partner: null,
+          partner: extractPartner(entry),
           location: extractCity(entry),
           attendees: 0,
           luma_url: `https://lu.ma/${slug}`,
@@ -112,10 +134,8 @@ export async function fetchAllEvents(): Promise<CorgiEvent[]> {
 
 export async function fetchEventDetails(
   slug: string
-): Promise<{ attendees: number; partner: string | null; description?: string }> {
+): Promise<{ attendees: number; description?: string }> {
   try {
-    // The slug is the url field (short code), try fetching by event_api_id first
-    // then fall back to the url-based lookup
     const res = await fetch(
       `https://api.lu.ma/event/get?event_api_id=${slug}`,
       {
@@ -130,7 +150,6 @@ export async function fetchEventDetails(
     if (res.ok) {
       data = await res.json();
     } else {
-      // Try url-based lookup for short slugs
       const res2 = await fetch(
         `https://api.lu.ma/url?url=${slug}`,
         {
@@ -140,27 +159,15 @@ export async function fetchEventDetails(
           },
         }
       );
-      if (!res2.ok) return { attendees: 0, partner: null };
+      if (!res2.ok) return { attendees: 0 };
       data = await res2.json();
     }
 
-    const guestCount = data.guest_count ?? 0;
-
-    let partner: string | null = null;
-    if (data.hosts && data.hosts.length > 1) {
-      const cohost = data.hosts.find(
-        (h: { name?: string }) =>
-          h.name && !h.name.toLowerCase().includes("corgi")
-      );
-      if (cohost) partner = cohost.name;
-    }
-
     return {
-      attendees: guestCount,
-      partner,
+      attendees: data.guest_count ?? 0,
       description: data.event?.description,
     };
   } catch {
-    return { attendees: 0, partner: null };
+    return { attendees: 0 };
   }
 }
