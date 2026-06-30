@@ -45,7 +45,7 @@ function extractCity(entry: LumaApiEntry): string {
   const geoJson = entry.event.geo_address_json;
   if (geoJson?.city) return geoJson.city;
 
-  return "Unknown";
+  return "Online";
 }
 
 async function fetchCalendarEvents(
