@@ -6,8 +6,28 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 0,
+    "attendees": 1,
     "luma_url": "https://lu.ma/gtm-breakfast-sf"
+  },
+  {
+    "id": "zgub5p58",
+    "date": "2026-07-18",
+    "name": "Women in Tech - Yoga + Networking",
+    "format": "Networking",
+    "partner": null,
+    "location": "New York",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/zgub5p58"
+  },
+  {
+    "id": "r2prqu6n",
+    "date": "2026-07-16",
+    "name": "Game Night 🎮 Corgi x General Intuition",
+    "format": "Game",
+    "partner": null,
+    "location": "New York",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/r2prqu6n"
   },
   {
     "id": "rippling-0d7f",
@@ -20,14 +40,34 @@
     "luma_url": "https://lu.ma/rippling-0d7f"
   },
   {
+    "id": "9qppwmjw",
+    "date": "2026-07-11",
+    "name": "Corgi ☕️ NYC: Coworking + Coffee",
+    "format": "Coworking",
+    "partner": null,
+    "location": "New York",
+    "attendees": 15,
+    "luma_url": "https://lu.ma/9qppwmjw"
+  },
+  {
     "id": "td42xz48",
     "date": "2026-07-11",
     "name": "Founders Demo Day @ Corgi Cafe",
     "format": "Demo day",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 84,
+    "attendees": 87,
     "luma_url": "https://lu.ma/td42xz48"
+  },
+  {
+    "id": "YC_Founders_Wine_Mixer",
+    "date": "2026-07-09",
+    "name": "YC Founders Wine & Cocktails Mixer",
+    "format": "Networking",
+    "partner": "YC Only",
+    "location": "San Francisco",
+    "attendees": 69,
+    "luma_url": "https://lu.ma/YC_Founders_Wine_Mixer"
   },
   {
     "id": "wdj8ur9g",
@@ -50,24 +90,34 @@
     "luma_url": "https://lu.ma/i6v87nq7"
   },
   {
+    "id": "433c39kt",
+    "date": "2026-07-05",
+    "name": "July 4th Afterparty",
+    "format": "Social",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/433c39kt"
+  },
+  {
+    "id": "4m9phuxk",
+    "date": "2026-07-04",
+    "name": "Matcha Meetup NYC",
+    "format": "Other",
+    "partner": null,
+    "location": "New York",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/4m9phuxk"
+  },
+  {
     "id": "qoder",
     "date": "2026-07-02",
     "name": "The Future of Agentic Engineering and AI Workforces with Qoder",
     "format": "Other",
     "partner": "AI Builders",
     "location": "San Francisco",
-    "attendees": 116,
+    "attendees": 180,
     "luma_url": "https://lu.ma/qoder"
-  },
-  {
-    "id": "womentech-t1cp",
-    "date": "2026-07-01",
-    "name": "Women Tech Meetup: Building Without Permission",
-    "format": "Workshop",
-    "partner": "Women Tech Meetup",
-    "location": "San Francisco",
-    "attendees": 0,
-    "luma_url": "https://lu.ma/womentech-t1cp"
   },
   {
     "id": "n181x4b1",
@@ -80,13 +130,23 @@
     "luma_url": "https://lu.ma/n181x4b1"
   },
   {
+    "id": "womentech-t1cp",
+    "date": "2026-07-01",
+    "name": "Women Tech Meetup: Building Without Permission",
+    "format": "Workshop",
+    "partner": "Women Tech Meetup",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/womentech-t1cp"
+  },
+  {
     "id": "yg5x8n8b",
     "date": "2026-06-28",
     "name": "Founders Cowork & Build @ Corgi Cafe w/ Floot",
     "format": "Coworking",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 260,
+    "attendees": 258,
     "luma_url": "https://lu.ma/yg5x8n8b"
   },
   {
@@ -116,7 +176,7 @@
     "format": "Game",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 208,
+    "attendees": 207,
     "luma_url": "https://lu.ma/81yhuby4"
   },
   {
@@ -206,7 +266,7 @@
     "format": "Other",
     "partner": "The SF Grind",
     "location": "San Francisco",
-    "attendees": 99,
+    "attendees": 98,
     "luma_url": "https://lu.ma/uq6ci152"
   },
   {
@@ -376,7 +436,7 @@
     "format": "Social",
     "partner": "Special Projects",
     "location": "San Francisco",
-    "attendees": 467,
+    "attendees": 468,
     "luma_url": "https://lu.ma/tt7sweic"
   },
   {
