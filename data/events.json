@@ -6,7 +6,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 1,
+    "attendees": 3,
     "luma_url": "https://lu.ma/gtm-breakfast-sf"
   },
   {
@@ -18,6 +18,16 @@
     "location": "New York",
     "attendees": 0,
     "luma_url": "https://lu.ma/zgub5p58"
+  },
+  {
+    "id": "personacorgi",
+    "date": "2026-07-16",
+    "name": "Brew & Build: Persona x Corgi",
+    "format": "Other",
+    "partner": "Persona Community",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/personacorgi"
   },
   {
     "id": "r2prqu6n",
@@ -66,7 +76,7 @@
     "format": "Networking",
     "partner": "YC Only",
     "location": "San Francisco",
-    "attendees": 69,
+    "attendees": 82,
     "luma_url": "https://lu.ma/YC_Founders_Wine_Mixer"
   },
   {
@@ -116,7 +126,7 @@
     "format": "Other",
     "partner": "AI Builders",
     "location": "San Francisco",
-    "attendees": 180,
+    "attendees": 179,
     "luma_url": "https://lu.ma/qoder"
   },
   {
@@ -146,7 +156,7 @@
     "format": "Coworking",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 258,
+    "attendees": 257,
     "luma_url": "https://lu.ma/yg5x8n8b"
   },
   {
@@ -176,7 +186,7 @@
     "format": "Game",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 207,
+    "attendees": 206,
     "luma_url": "https://lu.ma/81yhuby4"
   },
   {
