@@ -6,8 +6,18 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 3,
+    "attendees": 5,
     "luma_url": "https://lu.ma/gtm-breakfast-sf"
+  },
+  {
+    "id": "xhj3qxhb",
+    "date": "2026-07-21",
+    "name": "YC Female Founder: Painting & Wine Night",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/xhj3qxhb"
   },
   {
     "id": "zgub5p58",
@@ -20,14 +30,14 @@
     "luma_url": "https://lu.ma/zgub5p58"
   },
   {
-    "id": "personacorgi",
+    "id": "l7c011gu",
     "date": "2026-07-16",
-    "name": "Brew & Build: Persona x Corgi",
+    "name": "YC S26 Founder Headshots & Brunch",
     "format": "Other",
-    "partner": "Persona Community",
+    "partner": null,
     "location": "San Francisco",
-    "attendees": 0,
-    "luma_url": "https://lu.ma/personacorgi"
+    "attendees": 12,
+    "luma_url": "https://lu.ma/l7c011gu"
   },
   {
     "id": "r2prqu6n",
@@ -40,6 +50,16 @@
     "luma_url": "https://lu.ma/r2prqu6n"
   },
   {
+    "id": "personacorgi",
+    "date": "2026-07-16",
+    "name": "Brew & Build: Persona x Corgi",
+    "format": "Other",
+    "partner": "Persona Community",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/personacorgi"
+  },
+  {
     "id": "rippling-0d7f",
     "date": "2026-07-15",
     "name": "Rippling x Corgi Founder Live Pitch Night ft Redpoint Ventures & Battery Ventures",
@@ -50,14 +70,34 @@
     "luma_url": "https://lu.ma/rippling-0d7f"
   },
   {
+    "id": "5t639fsg",
+    "date": "2026-07-15",
+    "name": "Claude Code & Coffee @ Corgi Cafe",
+    "format": "Other",
+    "partner": "Founder Social Club",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/5t639fsg"
+  },
+  {
     "id": "9qppwmjw",
     "date": "2026-07-11",
     "name": "Corgi ☕️ NYC: Coworking + Coffee",
     "format": "Coworking",
     "partner": null,
     "location": "New York",
-    "attendees": 14,
+    "attendees": 21,
     "luma_url": "https://lu.ma/9qppwmjw"
+  },
+  {
+    "id": "ms5ca877",
+    "date": "2026-07-11",
+    "name": "SF Poker Social",
+    "format": "Game",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/ms5ca877"
   },
   {
     "id": "td42xz48",
@@ -66,7 +106,7 @@
     "format": "Demo day",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 92,
+    "attendees": 211,
     "luma_url": "https://lu.ma/td42xz48"
   },
   {
@@ -76,7 +116,7 @@
     "format": "Networking",
     "partner": "YC Only",
     "location": "San Francisco",
-    "attendees": 86,
+    "attendees": 97,
     "luma_url": "https://lu.ma/YC_Founders_Wine_Mixer"
   },
   {
@@ -126,7 +166,7 @@
     "format": "Other",
     "partner": "AI Builders",
     "location": "San Francisco",
-    "attendees": 179,
+    "attendees": 178,
     "luma_url": "https://lu.ma/qoder"
   },
   {
@@ -156,7 +196,7 @@
     "format": "Coworking",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 256,
+    "attendees": 255,
     "luma_url": "https://lu.ma/yg5x8n8b"
   },
   {
@@ -246,7 +286,7 @@
     "format": "Other",
     "partner": "The SF Grind",
     "location": "San Francisco",
-    "attendees": 224,
+    "attendees": 223,
     "luma_url": "https://lu.ma/ero64bq6"
   },
   {
@@ -306,7 +346,7 @@
     "format": "Talk",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 387,
+    "attendees": 386,
     "luma_url": "https://lu.ma/4y89vpyu"
   },
   {
@@ -316,7 +356,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 198,
+    "attendees": 197,
     "luma_url": "https://lu.ma/74nl93wi"
   },
   {
@@ -346,7 +386,7 @@
     "format": "Social",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 219,
+    "attendees": 218,
     "luma_url": "https://lu.ma/ancbcgas"
   },
   {
@@ -356,7 +396,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 398,
+    "attendees": 397,
     "luma_url": "https://lu.ma/9bidhfct"
   },
   {
@@ -376,7 +416,7 @@
     "format": "Other",
     "partner": "Agent Intros",
     "location": "San Francisco",
-    "attendees": 119,
+    "attendees": 118,
     "luma_url": "https://lu.ma/3n4ntouj"
   },
   {
@@ -406,7 +446,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 302,
+    "attendees": 301,
     "luma_url": "https://lu.ma/s8ax4zfy"
   },
   {
@@ -416,7 +456,7 @@
     "format": "Other",
     "partner": "Voker",
     "location": "San Francisco",
-    "attendees": 23,
+    "attendees": 22,
     "luma_url": "https://lu.ma/9722g53g"
   },
   {
@@ -426,7 +466,7 @@
     "format": "Workshop",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 240,
+    "attendees": 239,
     "luma_url": "https://lu.ma/5ekrcijp"
   },
   {
@@ -446,7 +486,7 @@
     "format": "Social",
     "partner": "Special Projects",
     "location": "San Francisco",
-    "attendees": 468,
+    "attendees": 467,
     "luma_url": "https://lu.ma/tt7sweic"
   },
   {
@@ -466,7 +506,7 @@
     "format": "Other",
     "partner": "Agent Intros",
     "location": "San Francisco",
-    "attendees": 104,
+    "attendees": 103,
     "luma_url": "https://lu.ma/k248borb"
   },
   {
@@ -486,7 +526,7 @@
     "format": "Workshop",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 300,
+    "attendees": 299,
     "luma_url": "https://lu.ma/b7kg8vno"
   },
   {
@@ -506,7 +546,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 383,
+    "attendees": 382,
     "luma_url": "https://lu.ma/iqc1s9b1"
   },
   {
@@ -526,7 +566,7 @@
     "format": "Workshop",
     "partner": "e-America Events 🇺🇸",
     "location": "San Francisco",
-    "attendees": 82,
+    "attendees": 81,
     "luma_url": "https://lu.ma/gibetuk0"
   },
   {
@@ -536,7 +576,7 @@
     "format": "Game",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 81,
+    "attendees": 80,
     "luma_url": "https://lu.ma/gym2160b"
   },
   {
@@ -646,7 +686,7 @@
     "format": "Other",
     "partner": "Agent Intros",
     "location": "San Francisco",
-    "attendees": 163,
+    "attendees": 162,
     "luma_url": "https://lu.ma/iiexoonu"
   },
   {
@@ -656,7 +696,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 226,
+    "attendees": 225,
     "luma_url": "https://lu.ma/2ehb9hcx"
   },
   {
@@ -716,7 +756,7 @@
     "format": "Other",
     "partner": "Agent Intros",
     "location": "San Francisco",
-    "attendees": 192,
+    "attendees": 191,
     "luma_url": "https://lu.ma/e8gwzmio"
   },
   {
