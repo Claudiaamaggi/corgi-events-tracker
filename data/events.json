@@ -6,7 +6,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 5,
+    "attendees": 8,
     "luma_url": "https://lu.ma/gtm-breakfast-sf"
   },
   {
@@ -20,6 +20,16 @@
     "luma_url": "https://lu.ma/xhj3qxhb"
   },
   {
+    "id": "75f4q7b7",
+    "date": "2026-07-18",
+    "name": "YC Founder Dinner @Corgi",
+    "format": "Other",
+    "partner": null,
+    "location": "Online",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/75f4q7b7"
+  },
+  {
     "id": "zgub5p58",
     "date": "2026-07-18",
     "name": "Women in Tech - Yoga + Networking",
@@ -30,14 +40,14 @@
     "luma_url": "https://lu.ma/zgub5p58"
   },
   {
-    "id": "l7c011gu",
-    "date": "2026-07-16",
-    "name": "YC S26 Founder Headshots & Brunch",
-    "format": "Other",
+    "id": "qjqjltg8",
+    "date": "2026-07-17",
+    "name": "Build the Cup: Lovable x Corgi Buildathon",
+    "format": "Hackathon",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 12,
-    "luma_url": "https://lu.ma/l7c011gu"
+    "attendees": 1,
+    "luma_url": "https://lu.ma/qjqjltg8"
   },
   {
     "id": "r2prqu6n",
@@ -60,6 +70,16 @@
     "luma_url": "https://lu.ma/personacorgi"
   },
   {
+    "id": "l7c011gu",
+    "date": "2026-07-16",
+    "name": "YC S26 Founder Headshots & Brunch",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 12,
+    "luma_url": "https://lu.ma/l7c011gu"
+  },
+  {
     "id": "rippling-0d7f",
     "date": "2026-07-15",
     "name": "Rippling x Corgi Founder Live Pitch Night ft Redpoint Ventures & Battery Ventures",
@@ -80,13 +100,23 @@
     "luma_url": "https://lu.ma/5t639fsg"
   },
   {
+    "id": "6fgiehrm",
+    "date": "2026-07-11",
+    "name": "a16z Speedrun Dinner & Board Games",
+    "format": "Game",
+    "partner": null,
+    "location": "Online",
+    "attendees": 17,
+    "luma_url": "https://lu.ma/6fgiehrm"
+  },
+  {
     "id": "9qppwmjw",
     "date": "2026-07-11",
     "name": "Corgi ☕️ NYC: Coworking + Coffee",
     "format": "Coworking",
     "partner": null,
     "location": "New York",
-    "attendees": 21,
+    "attendees": 20,
     "luma_url": "https://lu.ma/9qppwmjw"
   },
   {
@@ -106,7 +136,7 @@
     "format": "Demo day",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 211,
+    "attendees": 229,
     "luma_url": "https://lu.ma/td42xz48"
   },
   {
@@ -116,7 +146,7 @@
     "format": "Networking",
     "partner": "YC Only",
     "location": "San Francisco",
-    "attendees": 97,
+    "attendees": 100,
     "luma_url": "https://lu.ma/YC_Founders_Wine_Mixer"
   },
   {
@@ -356,7 +386,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 197,
+    "attendees": 196,
     "luma_url": "https://lu.ma/74nl93wi"
   },
   {
@@ -396,7 +426,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 397,
+    "attendees": 396,
     "luma_url": "https://lu.ma/9bidhfct"
   },
   {
@@ -446,7 +476,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 301,
+    "attendees": 300,
     "luma_url": "https://lu.ma/s8ax4zfy"
   },
   {
@@ -486,7 +516,7 @@
     "format": "Social",
     "partner": "Special Projects",
     "location": "San Francisco",
-    "attendees": 467,
+    "attendees": 468,
     "luma_url": "https://lu.ma/tt7sweic"
   },
   {
@@ -516,7 +546,7 @@
     "format": "Social",
     "partner": "Anything",
     "location": "San Francisco",
-    "attendees": 645,
+    "attendees": 644,
     "luma_url": "https://lu.ma/h06u0dux"
   },
   {
