@@ -6,7 +6,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 8,
+    "attendees": 11,
     "luma_url": "https://lu.ma/gtm-breakfast-sf"
   },
   {
@@ -46,7 +46,7 @@
     "format": "Hackathon",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 1,
+    "attendees": 5,
     "luma_url": "https://lu.ma/qjqjltg8"
   },
   {
@@ -106,7 +106,7 @@
     "format": "Game",
     "partner": null,
     "location": "Online",
-    "attendees": 17,
+    "attendees": 23,
     "luma_url": "https://lu.ma/6fgiehrm"
   },
   {
@@ -116,7 +116,7 @@
     "format": "Coworking",
     "partner": null,
     "location": "New York",
-    "attendees": 20,
+    "attendees": 21,
     "luma_url": "https://lu.ma/9qppwmjw"
   },
   {
@@ -136,18 +136,8 @@
     "format": "Demo day",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 229,
+    "attendees": 276,
     "luma_url": "https://lu.ma/td42xz48"
-  },
-  {
-    "id": "YC_Founders_Wine_Mixer",
-    "date": "2026-07-09",
-    "name": "YC Founders Wine & Cocktails Mixer",
-    "format": "Networking",
-    "partner": "YC Only",
-    "location": "San Francisco",
-    "attendees": 100,
-    "luma_url": "https://lu.ma/YC_Founders_Wine_Mixer"
   },
   {
     "id": "wdj8ur9g",
@@ -158,6 +148,16 @@
     "location": "San Francisco",
     "attendees": 0,
     "luma_url": "https://lu.ma/wdj8ur9g"
+  },
+  {
+    "id": "YC_Founders_Wine_Mixer",
+    "date": "2026-07-09",
+    "name": "YC Founders Wine & Cocktails Mixer",
+    "format": "Networking",
+    "partner": "YC Only",
+    "location": "San Francisco",
+    "attendees": 100,
+    "luma_url": "https://lu.ma/YC_Founders_Wine_Mixer"
   },
   {
     "id": "i6v87nq7",
