@@ -6,7 +6,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 11,
+    "attendees": 14,
     "luma_url": "https://lu.ma/gtm-breakfast-sf"
   },
   {
@@ -46,7 +46,7 @@
     "format": "Hackathon",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 5,
+    "attendees": 19,
     "luma_url": "https://lu.ma/qjqjltg8"
   },
   {
@@ -116,7 +116,7 @@
     "format": "Coworking",
     "partner": null,
     "location": "New York",
-    "attendees": 21,
+    "attendees": 55,
     "luma_url": "https://lu.ma/9qppwmjw"
   },
   {
@@ -136,7 +136,7 @@
     "format": "Demo day",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 276,
+    "attendees": 293,
     "luma_url": "https://lu.ma/td42xz48"
   },
   {
