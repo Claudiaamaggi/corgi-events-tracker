@@ -30,6 +30,16 @@
     "luma_url": "https://lu.ma/75f4q7b7"
   },
   {
+    "id": "pw053ij8",
+    "date": "2026-07-18",
+    "name": "Battle of the Startups: Padel Edition",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 1,
+    "luma_url": "https://lu.ma/pw053ij8"
+  },
+  {
     "id": "zgub5p58",
     "date": "2026-07-18",
     "name": "Women in Tech - Yoga + Networking",
@@ -46,7 +56,7 @@
     "format": "Hackathon",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 19,
+    "attendees": 24,
     "luma_url": "https://lu.ma/qjqjltg8"
   },
   {
@@ -100,24 +110,14 @@
     "luma_url": "https://lu.ma/5t639fsg"
   },
   {
-    "id": "6fgiehrm",
+    "id": "td42xz48",
     "date": "2026-07-11",
-    "name": "a16z Speedrun Dinner & Board Games",
-    "format": "Game",
+    "name": "Founders Demo Day @ Corgi Cafe",
+    "format": "Demo day",
     "partner": null,
-    "location": "Online",
-    "attendees": 23,
-    "luma_url": "https://lu.ma/6fgiehrm"
-  },
-  {
-    "id": "9qppwmjw",
-    "date": "2026-07-11",
-    "name": "Corgi ☕️ NYC: Coworking + Coffee",
-    "format": "Coworking",
-    "partner": null,
-    "location": "New York",
-    "attendees": 55,
-    "luma_url": "https://lu.ma/9qppwmjw"
+    "location": "San Francisco",
+    "attendees": 311,
+    "luma_url": "https://lu.ma/td42xz48"
   },
   {
     "id": "ms5ca877",
@@ -130,14 +130,24 @@
     "luma_url": "https://lu.ma/ms5ca877"
   },
   {
-    "id": "td42xz48",
+    "id": "9qppwmjw",
     "date": "2026-07-11",
-    "name": "Founders Demo Day @ Corgi Cafe",
-    "format": "Demo day",
+    "name": "Corgi ☕️ NYC: Coworking + Coffee",
+    "format": "Coworking",
     "partner": null,
-    "location": "San Francisco",
-    "attendees": 293,
-    "luma_url": "https://lu.ma/td42xz48"
+    "location": "New York",
+    "attendees": 53,
+    "luma_url": "https://lu.ma/9qppwmjw"
+  },
+  {
+    "id": "6fgiehrm",
+    "date": "2026-07-11",
+    "name": "a16z Speedrun Dinner & Board Games",
+    "format": "Game",
+    "partner": null,
+    "location": "Online",
+    "attendees": 23,
+    "luma_url": "https://lu.ma/6fgiehrm"
   },
   {
     "id": "wdj8ur9g",
