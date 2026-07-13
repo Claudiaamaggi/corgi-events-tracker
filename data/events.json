@@ -1,12 +1,22 @@
 [
   {
+    "id": "j4pqtkhp",
+    "date": "2026-08-02",
+    "name": "Corgi Cafe: Dogpatch Open House",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 3,
+    "luma_url": "https://lu.ma/j4pqtkhp"
+  },
+  {
     "id": "gtm-breakfast-sf",
     "date": "2026-07-23",
     "name": "Daytona AI GTM Breakfast - SF, July 2026 @Corgi Cafe",
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 14,
+    "attendees": 16,
     "luma_url": "https://lu.ma/gtm-breakfast-sf"
   },
   {
@@ -56,7 +66,7 @@
     "format": "Hackathon",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 24,
+    "attendees": 34,
     "luma_url": "https://lu.ma/qjqjltg8"
   },
   {
