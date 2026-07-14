@@ -6,8 +6,18 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 3,
+    "attendees": 9,
     "luma_url": "https://lu.ma/j4pqtkhp"
+  },
+  {
+    "id": "j1x0xf7t",
+    "date": "2026-07-25",
+    "name": "YC Laser Tag",
+    "format": "Other",
+    "partner": null,
+    "location": "Online",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/j1x0xf7t"
   },
   {
     "id": "gtm-breakfast-sf",
@@ -16,7 +26,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 16,
+    "attendees": 27,
     "luma_url": "https://lu.ma/gtm-breakfast-sf"
   },
   {
@@ -46,7 +56,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 1,
+    "attendees": 2,
     "luma_url": "https://lu.ma/pw053ij8"
   },
   {
@@ -66,8 +76,18 @@
     "format": "Hackathon",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 34,
+    "attendees": 42,
     "luma_url": "https://lu.ma/qjqjltg8"
+  },
+  {
+    "id": "h0j19bqk",
+    "date": "2026-07-16",
+    "name": "What we learned from OAI and Molecule.one's \"Near-Autonomous AI\" Discovery of OAI-M1-03",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/h0j19bqk"
   },
   {
     "id": "r2prqu6n",
