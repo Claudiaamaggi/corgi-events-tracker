@@ -16,7 +16,7 @@
     "format": "Other",
     "partner": null,
     "location": "Online",
-    "attendees": 0,
+    "attendees": 1,
     "luma_url": "https://lu.ma/j1x0xf7t"
   },
   {
@@ -26,7 +26,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 60,
+    "attendees": 67,
     "luma_url": "https://lu.ma/gtm-breakfast-sf"
   },
   {
@@ -76,7 +76,7 @@
     "format": "Hackathon",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 58,
+    "attendees": 108,
     "luma_url": "https://lu.ma/qjqjltg8"
   },
   {
@@ -120,6 +120,16 @@
     "luma_url": "https://lu.ma/l7c011gu"
   },
   {
+    "id": "5t639fsg",
+    "date": "2026-07-15",
+    "name": "Claude Code & Coffee @ Corgi Cafe",
+    "format": "Other",
+    "partner": "Founder Social Club",
+    "location": "San Francisco",
+    "attendees": 178,
+    "luma_url": "https://lu.ma/5t639fsg"
+  },
+  {
     "id": "rippling-0d7f",
     "date": "2026-07-15",
     "name": "Rippling x Corgi Founder Live Pitch Night ft Redpoint Ventures & Battery Ventures",
@@ -128,16 +138,6 @@
     "location": "San Francisco",
     "attendees": 0,
     "luma_url": "https://lu.ma/rippling-0d7f"
-  },
-  {
-    "id": "5t639fsg",
-    "date": "2026-07-15",
-    "name": "Claude Code & Coffee @ Corgi Cafe",
-    "format": "Other",
-    "partner": "Founder Social Club",
-    "location": "San Francisco",
-    "attendees": 163,
-    "luma_url": "https://lu.ma/5t639fsg"
   },
   {
     "id": "td42xz48",
@@ -216,7 +216,7 @@
     "format": "Social",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 192,
+    "attendees": 191,
     "luma_url": "https://lu.ma/433c39kt"
   },
   {
@@ -756,7 +756,7 @@
     "format": "Other",
     "partner": "Agent Intros",
     "location": "San Francisco",
-    "attendees": 162,
+    "attendees": 161,
     "luma_url": "https://lu.ma/iiexoonu"
   },
   {
@@ -826,7 +826,7 @@
     "format": "Other",
     "partner": "Agent Intros",
     "location": "San Francisco",
-    "attendees": 191,
+    "attendees": 190,
     "luma_url": "https://lu.ma/e8gwzmio"
   },
   {
