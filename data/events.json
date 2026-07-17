@@ -26,7 +26,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 67,
+    "attendees": 80,
     "luma_url": "https://lu.ma/gtm-breakfast-sf"
   },
   {
@@ -76,18 +76,8 @@
     "format": "Hackathon",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 108,
+    "attendees": 167,
     "luma_url": "https://lu.ma/qjqjltg8"
-  },
-  {
-    "id": "h0j19bqk",
-    "date": "2026-07-16",
-    "name": "What we learned from OAI and Molecule.one's \"Near-Autonomous AI\" Discovery of OAI-M1-03",
-    "format": "Other",
-    "partner": null,
-    "location": "San Francisco",
-    "attendees": 0,
-    "luma_url": "https://lu.ma/h0j19bqk"
   },
   {
     "id": "r2prqu6n",
@@ -98,6 +88,16 @@
     "location": "New York",
     "attendees": 0,
     "luma_url": "https://lu.ma/r2prqu6n"
+  },
+  {
+    "id": "h0j19bqk",
+    "date": "2026-07-16",
+    "name": "What we learned from OAI and Molecule.one's \"Near-Autonomous AI\" Discovery of OAI-M1-03",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/h0j19bqk"
   },
   {
     "id": "personacorgi",
@@ -126,7 +126,7 @@
     "format": "Other",
     "partner": "Founder Social Club",
     "location": "San Francisco",
-    "attendees": 178,
+    "attendees": 176,
     "luma_url": "https://lu.ma/5t639fsg"
   },
   {
@@ -146,7 +146,7 @@
     "format": "Demo day",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 311,
+    "attendees": 310,
     "luma_url": "https://lu.ma/td42xz48"
   },
   {
@@ -236,7 +236,7 @@
     "format": "Other",
     "partner": "AI Builders",
     "location": "San Francisco",
-    "attendees": 177,
+    "attendees": 176,
     "luma_url": "https://lu.ma/qoder"
   },
   {
@@ -266,7 +266,7 @@
     "format": "Coworking",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 255,
+    "attendees": 254,
     "luma_url": "https://lu.ma/yg5x8n8b"
   },
   {
@@ -306,7 +306,7 @@
     "format": "Social",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 145,
+    "attendees": 144,
     "luma_url": "https://lu.ma/umy1pmhc"
   },
   {
@@ -356,7 +356,7 @@
     "format": "Other",
     "partner": "The SF Grind",
     "location": "San Francisco",
-    "attendees": 223,
+    "attendees": 222,
     "luma_url": "https://lu.ma/ero64bq6"
   },
   {
@@ -386,7 +386,7 @@
     "format": "Other",
     "partner": "The SF Grind",
     "location": "San Francisco",
-    "attendees": 98,
+    "attendees": 97,
     "luma_url": "https://lu.ma/uq6ci152"
   },
   {
@@ -426,7 +426,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 196,
+    "attendees": 195,
     "luma_url": "https://lu.ma/74nl93wi"
   },
   {
@@ -466,7 +466,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 396,
+    "attendees": 395,
     "luma_url": "https://lu.ma/9bidhfct"
   },
   {
@@ -506,7 +506,7 @@
     "format": "Other",
     "partner": "Google DeepMind",
     "location": "San Francisco",
-    "attendees": 400,
+    "attendees": 399,
     "luma_url": "https://lu.ma/b8tg4qst"
   },
   {
@@ -516,7 +516,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 300,
+    "attendees": 299,
     "luma_url": "https://lu.ma/s8ax4zfy"
   },
   {
@@ -526,7 +526,7 @@
     "format": "Other",
     "partner": "Voker",
     "location": "San Francisco",
-    "attendees": 22,
+    "attendees": 21,
     "luma_url": "https://lu.ma/9722g53g"
   },
   {
@@ -536,7 +536,7 @@
     "format": "Workshop",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 239,
+    "attendees": 238,
     "luma_url": "https://lu.ma/5ekrcijp"
   },
   {
@@ -586,7 +586,7 @@
     "format": "Social",
     "partner": "Anything",
     "location": "San Francisco",
-    "attendees": 644,
+    "attendees": 643,
     "luma_url": "https://lu.ma/h06u0dux"
   },
   {
@@ -596,7 +596,7 @@
     "format": "Workshop",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 299,
+    "attendees": 298,
     "luma_url": "https://lu.ma/b7kg8vno"
   },
   {
@@ -606,7 +606,7 @@
     "format": "Other",
     "partner": "Lore Community Events",
     "location": "Online",
-    "attendees": 105,
+    "attendees": 104,
     "luma_url": "https://lu.ma/snz96e5m"
   },
   {
@@ -636,7 +636,7 @@
     "format": "Workshop",
     "partner": "e-America Events 🇺🇸",
     "location": "San Francisco",
-    "attendees": 81,
+    "attendees": 80,
     "luma_url": "https://lu.ma/gibetuk0"
   },
   {
@@ -656,7 +656,7 @@
     "format": "Other",
     "partner": "The SF Grind",
     "location": "San Francisco",
-    "attendees": 86,
+    "attendees": 85,
     "luma_url": "https://lu.ma/kx6quajw"
   },
   {
@@ -826,7 +826,7 @@
     "format": "Other",
     "partner": "Agent Intros",
     "location": "San Francisco",
-    "attendees": 190,
+    "attendees": 189,
     "luma_url": "https://lu.ma/e8gwzmio"
   },
   {
@@ -836,7 +836,7 @@
     "format": "Other",
     "partner": "Devnovate",
     "location": "San Francisco",
-    "attendees": 36,
+    "attendees": 35,
     "luma_url": "https://lu.ma/d3r7yavw"
   },
   {
