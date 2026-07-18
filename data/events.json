@@ -26,7 +26,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 80,
+    "attendees": 87,
     "luma_url": "https://lu.ma/gtm-breakfast-sf"
   },
   {
@@ -80,6 +80,16 @@
     "luma_url": "https://lu.ma/qjqjltg8"
   },
   {
+    "id": "personacorgi",
+    "date": "2026-07-16",
+    "name": "Brew & Build: Persona x Corgi",
+    "format": "Other",
+    "partner": "Persona Community",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/personacorgi"
+  },
+  {
     "id": "r2prqu6n",
     "date": "2026-07-16",
     "name": "Game Night 🎮 Corgi x General Intuition",
@@ -98,16 +108,6 @@
     "location": "San Francisco",
     "attendees": 0,
     "luma_url": "https://lu.ma/h0j19bqk"
-  },
-  {
-    "id": "personacorgi",
-    "date": "2026-07-16",
-    "name": "Brew & Build: Persona x Corgi",
-    "format": "Other",
-    "partner": "Persona Community",
-    "location": "San Francisco",
-    "attendees": 0,
-    "luma_url": "https://lu.ma/personacorgi"
   },
   {
     "id": "l7c011gu",
