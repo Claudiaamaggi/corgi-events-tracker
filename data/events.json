@@ -26,8 +26,18 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 87,
+    "attendees": 93,
     "luma_url": "https://lu.ma/gtm-breakfast-sf"
+  },
+  {
+    "id": "5w78yjyy",
+    "date": "2026-07-22",
+    "name": "Corgi Coffee Co-op",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/5w78yjyy"
   },
   {
     "id": "xhj3qxhb",
@@ -40,14 +50,14 @@
     "luma_url": "https://lu.ma/xhj3qxhb"
   },
   {
-    "id": "75f4q7b7",
-    "date": "2026-07-18",
-    "name": "YC Founder Dinner @Corgi",
-    "format": "Other",
+    "id": "8qzm1ow4",
+    "date": "2026-07-19",
+    "name": "Ladies Tea Party: Female Founders in Tech",
+    "format": "Social",
     "partner": null,
-    "location": "Online",
-    "attendees": 0,
-    "luma_url": "https://lu.ma/75f4q7b7"
+    "location": "San Francisco",
+    "attendees": 30,
+    "luma_url": "https://lu.ma/8qzm1ow4"
   },
   {
     "id": "pw053ij8",
@@ -58,6 +68,16 @@
     "location": "San Francisco",
     "attendees": 11,
     "luma_url": "https://lu.ma/pw053ij8"
+  },
+  {
+    "id": "75f4q7b7",
+    "date": "2026-07-18",
+    "name": "YC Founder Dinner @Corgi",
+    "format": "Other",
+    "partner": null,
+    "location": "Online",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/75f4q7b7"
   },
   {
     "id": "zgub5p58",
