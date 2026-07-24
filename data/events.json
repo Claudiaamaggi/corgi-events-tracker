@@ -36,8 +36,18 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 91,
+    "attendees": 93,
     "luma_url": "https://lu.ma/frzdck41"
+  },
+  {
+    "id": "zbbnpkcd",
+    "date": "2026-07-29",
+    "name": "Afore Founders Dinner & Boardgames @ Corgi Cafe 🎉",
+    "format": "Game",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/zbbnpkcd"
   },
   {
     "id": "j1x0xf7t",
@@ -46,7 +56,7 @@
     "format": "Other",
     "partner": null,
     "location": "Online",
-    "attendees": 5,
+    "attendees": 9,
     "luma_url": "https://lu.ma/j1x0xf7t"
   },
   {
@@ -56,7 +66,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 281,
+    "attendees": 283,
     "luma_url": "https://lu.ma/gtm-breakfast-sf"
   },
   {
