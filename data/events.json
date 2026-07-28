@@ -16,8 +16,18 @@
     "format": "Other",
     "partner": "Gosai Law",
     "location": "San Francisco",
-    "attendees": 2,
+    "attendees": 6,
     "luma_url": "https://lu.ma/i22k2c81"
+  },
+  {
+    "id": "8j1enbqt",
+    "date": "2026-08-07",
+    "name": "Drive a Supercar at Sonoma Raceway",
+    "format": "Other",
+    "partner": null,
+    "location": "Sonoma",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/8j1enbqt"
   },
   {
     "id": "4fpimhpz",
@@ -30,16 +40,6 @@
     "luma_url": "https://lu.ma/4fpimhpz"
   },
   {
-    "id": "qtuxy56z",
-    "date": "2026-08-02",
-    "name": "YC S26 Kayaking Day",
-    "format": "Other",
-    "partner": null,
-    "location": "Online",
-    "attendees": 0,
-    "luma_url": "https://lu.ma/qtuxy56z"
-  },
-  {
     "id": "j4pqtkhp",
     "date": "2026-08-02",
     "name": "Corgi Cafe: Dogpatch Open House",
@@ -50,13 +50,23 @@
     "luma_url": "https://lu.ma/j4pqtkhp"
   },
   {
+    "id": "qtuxy56z",
+    "date": "2026-08-02",
+    "name": "YC S26 Kayaking Day",
+    "format": "Other",
+    "partner": null,
+    "location": "Online",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/qtuxy56z"
+  },
+  {
     "id": "frzdck41",
     "date": "2026-07-31",
     "name": "Late Night C.H.I.P Sessions",
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 93,
+    "attendees": 98,
     "luma_url": "https://lu.ma/frzdck41"
   },
   {
@@ -76,7 +86,7 @@
     "format": "Other",
     "partner": null,
     "location": "Online",
-    "attendees": 14,
+    "attendees": 22,
     "luma_url": "https://lu.ma/j1x0xf7t"
   },
   {
