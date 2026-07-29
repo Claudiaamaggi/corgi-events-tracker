@@ -40,13 +40,23 @@
     "luma_url": "https://lu.ma/4fpimhpz"
   },
   {
+    "id": "m6gib2iu",
+    "date": "2026-08-04",
+    "name": "Women's Founder Night",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/m6gib2iu"
+  },
+  {
     "id": "j4pqtkhp",
     "date": "2026-08-02",
     "name": "Corgi Cafe: Dogpatch Open House",
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 23,
+    "attendees": 26,
     "luma_url": "https://lu.ma/j4pqtkhp"
   },
   {
@@ -66,8 +76,28 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 98,
+    "attendees": 99,
     "luma_url": "https://lu.ma/frzdck41"
+  },
+  {
+    "id": "abj16de1",
+    "date": "2026-07-30",
+    "name": "Codex Community Meetup",
+    "format": "Other",
+    "partner": "Codex Community Events",
+    "location": "San Francisco",
+    "attendees": 108,
+    "luma_url": "https://lu.ma/abj16de1"
+  },
+  {
+    "id": "u0ifi864",
+    "date": "2026-07-30",
+    "name": "Corgi x Briq: French Founder Meetup 🇫🇷",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 34,
+    "luma_url": "https://lu.ma/u0ifi864"
   },
   {
     "id": "zbbnpkcd",
@@ -86,7 +116,7 @@
     "format": "Other",
     "partner": null,
     "location": "Online",
-    "attendees": 22,
+    "attendees": 23,
     "luma_url": "https://lu.ma/j1x0xf7t"
   },
   {
