@@ -16,7 +16,7 @@
     "format": "Other",
     "partner": "Gosai Law",
     "location": "San Francisco",
-    "attendees": 9,
+    "attendees": 10,
     "luma_url": "https://lu.ma/i22k2c81"
   },
   {
@@ -50,13 +50,23 @@
     "luma_url": "https://lu.ma/m6gib2iu"
   },
   {
+    "id": "d04ciyns",
+    "date": "2026-08-02",
+    "name": "Rooftop Happy Hour",
+    "format": "Networking",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/d04ciyns"
+  },
+  {
     "id": "j4pqtkhp",
     "date": "2026-08-02",
     "name": "Corgi Cafe: Dogpatch Open House",
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 57,
+    "attendees": 72,
     "luma_url": "https://lu.ma/j4pqtkhp"
   },
   {
@@ -76,8 +86,18 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 100,
+    "attendees": 139,
     "luma_url": "https://lu.ma/frzdck41"
+  },
+  {
+    "id": "u0ifi864",
+    "date": "2026-07-30",
+    "name": "Corgi x Briq: French Founder Meetup 🇫🇷",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 73,
+    "luma_url": "https://lu.ma/u0ifi864"
   },
   {
     "id": "abj16de1",
@@ -88,16 +108,6 @@
     "location": "San Francisco",
     "attendees": 129,
     "luma_url": "https://lu.ma/abj16de1"
-  },
-  {
-    "id": "u0ifi864",
-    "date": "2026-07-30",
-    "name": "Corgi x Briq: French Founder Meetup 🇫🇷",
-    "format": "Other",
-    "partner": null,
-    "location": "San Francisco",
-    "attendees": 80,
-    "luma_url": "https://lu.ma/u0ifi864"
   },
   {
     "id": "zbbnpkcd",
@@ -116,7 +126,7 @@
     "format": "Other",
     "partner": null,
     "location": "Online",
-    "attendees": 22,
+    "attendees": 20,
     "luma_url": "https://lu.ma/j1x0xf7t"
   },
   {
@@ -586,7 +596,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 395,
+    "attendees": 394,
     "luma_url": "https://lu.ma/9bidhfct"
   },
   {
