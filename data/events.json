@@ -6,8 +6,18 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 4,
+    "attendees": 3,
     "luma_url": "https://lu.ma/m1rgs7na"
+  },
+  {
+    "id": "zldz99jj",
+    "date": "2026-08-21",
+    "name": "The Back Office | SF Rooftop Social for Finance, Accounting & Risk",
+    "format": "Social",
+    "partner": "Maxima AI",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/zldz99jj"
   },
   {
     "id": "2izhkojo",
@@ -26,7 +36,7 @@
     "format": "Other",
     "partner": "Gosai Law",
     "location": "San Francisco",
-    "attendees": 14,
+    "attendees": 15,
     "luma_url": "https://lu.ma/i22k2c81"
   },
   {
@@ -76,7 +86,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 195,
+    "attendees": 300,
     "luma_url": "https://lu.ma/j4pqtkhp"
   },
   {
