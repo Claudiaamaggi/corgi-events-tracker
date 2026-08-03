@@ -36,7 +36,7 @@
     "format": "Other",
     "partner": "Gosai Law",
     "location": "San Francisco",
-    "attendees": 15,
+    "attendees": 18,
     "luma_url": "https://lu.ma/i22k2c81"
   },
   {
@@ -66,8 +66,18 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 10,
+    "attendees": 21,
     "luma_url": "https://lu.ma/m6gib2iu"
+  },
+  {
+    "id": "j4pqtkhp",
+    "date": "2026-08-02",
+    "name": "Corgi Cafe: Dogpatch Open House",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 366,
+    "luma_url": "https://lu.ma/j4pqtkhp"
   },
   {
     "id": "d04ciyns",
@@ -78,16 +88,6 @@
     "location": "San Francisco",
     "attendees": 0,
     "luma_url": "https://lu.ma/d04ciyns"
-  },
-  {
-    "id": "j4pqtkhp",
-    "date": "2026-08-02",
-    "name": "Corgi Cafe: Dogpatch Open House",
-    "format": "Other",
-    "partner": null,
-    "location": "San Francisco",
-    "attendees": 300,
-    "luma_url": "https://lu.ma/j4pqtkhp"
   },
   {
     "id": "qtuxy56z",
@@ -116,7 +116,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 73,
+    "attendees": 72,
     "luma_url": "https://lu.ma/u0ifi864"
   },
   {
@@ -566,7 +566,7 @@
     "format": "Talk",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 385,
+    "attendees": 384,
     "luma_url": "https://lu.ma/4y89vpyu"
   },
   {
@@ -616,7 +616,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 394,
+    "attendees": 393,
     "luma_url": "https://lu.ma/9bidhfct"
   },
   {
@@ -906,7 +906,7 @@
     "format": "Other",
     "partner": "Agent Intros",
     "location": "San Francisco",
-    "attendees": 161,
+    "attendees": 160,
     "luma_url": "https://lu.ma/iiexoonu"
   },
   {
