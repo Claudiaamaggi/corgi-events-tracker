@@ -1,5 +1,25 @@
 [
   {
+    "id": "cafe-cowork-temporal",
+    "date": "2026-09-04",
+    "name": "Cafe Cowork: Temporal x Corgi",
+    "format": "Coworking",
+    "partner": "Temporal Community",
+    "location": "San Francisco",
+    "attendees": 4,
+    "luma_url": "https://lu.ma/cafe-cowork-temporal"
+  },
+  {
+    "id": "j9lpxk1n",
+    "date": "2026-08-29",
+    "name": "YC vs Speedrun padel battle",
+    "format": "Other",
+    "partner": null,
+    "location": "Online",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/j9lpxk1n"
+  },
+  {
     "id": "m1rgs7na",
     "date": "2026-08-21",
     "name": "The Vintage Showroom",
@@ -40,6 +60,16 @@
     "luma_url": "https://lu.ma/2u41m1im"
   },
   {
+    "id": "founderbbqbash",
+    "date": "2026-08-16",
+    "name": "Founder BBQ Bash",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/founderbbqbash"
+  },
+  {
     "id": "2izhkojo",
     "date": "2026-08-15",
     "name": "a16z SR007 Dinner mixer",
@@ -56,7 +86,7 @@
     "format": "Other",
     "partner": "Gosai Law",
     "location": "San Francisco",
-    "attendees": 19,
+    "attendees": 21,
     "luma_url": "https://lu.ma/i22k2c81"
   },
   {
