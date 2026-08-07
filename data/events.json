@@ -6,7 +6,7 @@
     "format": "Coworking",
     "partner": "Temporal Community",
     "location": "San Francisco",
-    "attendees": 9,
+    "attendees": 13,
     "luma_url": "https://lu.ma/cafe-cowork-temporal"
   },
   {
@@ -20,16 +20,6 @@
     "luma_url": "https://lu.ma/j9lpxk1n"
   },
   {
-    "id": "m1rgs7na",
-    "date": "2026-08-21",
-    "name": "The Vintage Showroom",
-    "format": "Other",
-    "partner": null,
-    "location": "San Francisco",
-    "attendees": 3,
-    "luma_url": "https://lu.ma/m1rgs7na"
-  },
-  {
     "id": "zldz99jj",
     "date": "2026-08-21",
     "name": "The Back Office | SF Rooftop Social for Finance, Accounting & Risk",
@@ -38,6 +28,16 @@
     "location": "San Francisco",
     "attendees": 0,
     "luma_url": "https://lu.ma/zldz99jj"
+  },
+  {
+    "id": "m1rgs7na",
+    "date": "2026-08-21",
+    "name": "The Vintage Showroom",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 4,
+    "luma_url": "https://lu.ma/m1rgs7na"
   },
   {
     "id": "4l30gml2",
@@ -86,7 +86,7 @@
     "format": "Other",
     "partner": "Gosai Law",
     "location": "San Francisco",
-    "attendees": 24,
+    "attendees": 31,
     "luma_url": "https://lu.ma/i22k2c81"
   },
   {
