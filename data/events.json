@@ -6,7 +6,7 @@
     "format": "Coworking",
     "partner": "Temporal Community",
     "location": "San Francisco",
-    "attendees": 13,
+    "attendees": 14,
     "luma_url": "https://lu.ma/cafe-cowork-temporal"
   },
   {
@@ -38,6 +38,16 @@
     "location": "San Francisco",
     "attendees": 4,
     "luma_url": "https://lu.ma/m1rgs7na"
+  },
+  {
+    "id": "raisi-g87x",
+    "date": "2026-08-20",
+    "name": "CORGI X RAISI PITCH NIGHT @ CORGI HQ",
+    "format": "Pitch",
+    "partner": "Raisi",
+    "location": "San Francisco",
+    "attendees": 125,
+    "luma_url": "https://lu.ma/raisi-g87x"
   },
   {
     "id": "4l30gml2",
@@ -80,13 +90,23 @@
     "luma_url": "https://lu.ma/2izhkojo"
   },
   {
+    "id": "tinyfish-hvv6",
+    "date": "2026-08-14",
+    "name": "Zero to Repeatable: Lessons from $100M+ in Enterprise Revenue",
+    "format": "Other",
+    "partner": "TinyFish Events",
+    "location": "San Francisco",
+    "attendees": 52,
+    "luma_url": "https://lu.ma/tinyfish-hvv6"
+  },
+  {
     "id": "i22k2c81",
     "date": "2026-08-12",
     "name": "Coffee x Counsel SF",
     "format": "Other",
     "partner": "Gosai Law",
     "location": "San Francisco",
-    "attendees": 31,
+    "attendees": 32,
     "luma_url": "https://lu.ma/i22k2c81"
   },
   {
