@@ -6,7 +6,7 @@
     "format": "Coworking",
     "partner": "Temporal Community",
     "location": "San Francisco",
-    "attendees": 19,
+    "attendees": 23,
     "luma_url": "https://lu.ma/cafe-cowork-temporal"
   },
   {
@@ -18,6 +18,16 @@
     "location": "Online",
     "attendees": 0,
     "luma_url": "https://lu.ma/j9lpxk1n"
+  },
+  {
+    "id": "na2pz2q9",
+    "date": "2026-08-28",
+    "name": "The SF Grind: SF Startup Community Coffee Meetup",
+    "format": "Other",
+    "partner": "The SF Grind",
+    "location": "San Francisco",
+    "attendees": 5,
+    "luma_url": "https://lu.ma/na2pz2q9"
   },
   {
     "id": "zldz99jj",
@@ -46,7 +56,7 @@
     "format": "Pitch",
     "partner": "Raisi",
     "location": "San Francisco",
-    "attendees": 158,
+    "attendees": 170,
     "luma_url": "https://lu.ma/raisi-g87x"
   },
   {
@@ -96,7 +106,7 @@
     "format": "Other",
     "partner": "TinyFish Events",
     "location": "San Francisco",
-    "attendees": 66,
+    "attendees": 94,
     "luma_url": "https://lu.ma/tinyfish-hvv6"
   },
   {
@@ -106,7 +116,7 @@
     "format": "Other",
     "partner": "Gosai Law",
     "location": "San Francisco",
-    "attendees": 40,
+    "attendees": 47,
     "luma_url": "https://lu.ma/i22k2c81"
   },
   {
