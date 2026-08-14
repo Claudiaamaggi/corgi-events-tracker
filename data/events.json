@@ -6,7 +6,7 @@
     "format": "Coworking",
     "partner": "Temporal Community",
     "location": "San Francisco",
-    "attendees": 25,
+    "attendees": 27,
     "luma_url": "https://lu.ma/cafe-cowork-temporal"
   },
   {
@@ -20,13 +20,23 @@
     "luma_url": "https://lu.ma/j9lpxk1n"
   },
   {
+    "id": "HOPRpersona",
+    "date": "2026-08-28",
+    "name": "SF HOPR Dinner for Founders by Persona and Corgi",
+    "format": "Other",
+    "partner": "Persona Community",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/HOPRpersona"
+  },
+  {
     "id": "na2pz2q9",
     "date": "2026-08-28",
     "name": "The SF Grind: SF Startup Community Coffee Meetup",
     "format": "Other",
     "partner": "The SF Grind",
     "location": "San Francisco",
-    "attendees": 10,
+    "attendees": 16,
     "luma_url": "https://lu.ma/na2pz2q9"
   },
   {
@@ -36,7 +46,7 @@
     "format": "Social",
     "partner": "Maxima AI",
     "location": "San Francisco",
-    "attendees": 0,
+    "attendees": 68,
     "luma_url": "https://lu.ma/zldz99jj"
   },
   {
@@ -56,7 +66,7 @@
     "format": "Pitch",
     "partner": "Raisi",
     "location": "San Francisco",
-    "attendees": 200,
+    "attendees": 212,
     "luma_url": "https://lu.ma/raisi-g87x"
   },
   {
@@ -70,13 +80,23 @@
     "luma_url": "https://lu.ma/4l30gml2"
   },
   {
+    "id": "weared-zzo9",
+    "date": "2026-08-19",
+    "name": "Help Me Fix This...with WeAreDevelopers",
+    "format": "Other",
+    "partner": "WeAreDevelopers",
+    "location": "San Francisco",
+    "attendees": 2,
+    "luma_url": "https://lu.ma/weared-zzo9"
+  },
+  {
     "id": "2u41m1im",
     "date": "2026-08-18",
     "name": "Deel x Corgi Workshop",
     "format": "Workshop",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 10,
+    "attendees": 24,
     "luma_url": "https://lu.ma/2u41m1im"
   },
   {
@@ -106,7 +126,7 @@
     "format": "Other",
     "partner": "TinyFish Events",
     "location": "San Francisco",
-    "attendees": 177,
+    "attendees": 208,
     "luma_url": "https://lu.ma/tinyfish-hvv6"
   },
   {
@@ -376,7 +396,7 @@
     "format": "Demo day",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 308,
+    "attendees": 307,
     "luma_url": "https://lu.ma/td42xz48"
   },
   {
