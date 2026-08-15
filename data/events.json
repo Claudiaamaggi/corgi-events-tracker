@@ -6,7 +6,7 @@
     "format": "Coworking",
     "partner": "Temporal Community",
     "location": "San Francisco",
-    "attendees": 27,
+    "attendees": 28,
     "luma_url": "https://lu.ma/cafe-cowork-temporal"
   },
   {
@@ -36,7 +36,7 @@
     "format": "Other",
     "partner": "The SF Grind",
     "location": "San Francisco",
-    "attendees": 16,
+    "attendees": 18,
     "luma_url": "https://lu.ma/na2pz2q9"
   },
   {
@@ -46,7 +46,7 @@
     "format": "Social",
     "partner": "Maxima AI",
     "location": "San Francisco",
-    "attendees": 68,
+    "attendees": 71,
     "luma_url": "https://lu.ma/zldz99jj"
   },
   {
@@ -66,7 +66,7 @@
     "format": "Pitch",
     "partner": "Raisi",
     "location": "San Francisco",
-    "attendees": 213,
+    "attendees": 218,
     "luma_url": "https://lu.ma/raisi-g87x"
   },
   {
@@ -86,8 +86,18 @@
     "format": "Other",
     "partner": "WeAreDevelopers",
     "location": "San Francisco",
-    "attendees": 2,
+    "attendees": 3,
     "luma_url": "https://lu.ma/weared-zzo9"
+  },
+  {
+    "id": "eragon-7ro4",
+    "date": "2026-08-18",
+    "name": "Eragon Noir Launch Party",
+    "format": "Social",
+    "partner": "Eragon Events",
+    "location": "Online",
+    "attendees": 18,
+    "luma_url": "https://lu.ma/eragon-7ro4"
   },
   {
     "id": "2u41m1im",
@@ -96,7 +106,7 @@
     "format": "Workshop",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 24,
+    "attendees": 40,
     "luma_url": "https://lu.ma/2u41m1im"
   },
   {
