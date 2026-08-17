@@ -6,7 +6,7 @@
     "format": "Coworking",
     "partner": "Temporal Community",
     "location": "San Francisco",
-    "attendees": 29,
+    "attendees": 31,
     "luma_url": "https://lu.ma/cafe-cowork-temporal"
   },
   {
@@ -36,7 +36,7 @@
     "format": "Other",
     "partner": "The SF Grind",
     "location": "San Francisco",
-    "attendees": 18,
+    "attendees": 20,
     "luma_url": "https://lu.ma/na2pz2q9"
   },
   {
@@ -66,7 +66,7 @@
     "format": "Pitch",
     "partner": "Raisi",
     "location": "San Francisco",
-    "attendees": 226,
+    "attendees": 244,
     "luma_url": "https://lu.ma/raisi-g87x"
   },
   {
@@ -86,7 +86,7 @@
     "format": "Other",
     "partner": "WeAreDevelopers",
     "location": "San Francisco",
-    "attendees": 4,
+    "attendees": 6,
     "luma_url": "https://lu.ma/weared-zzo9"
   },
   {
@@ -96,7 +96,7 @@
     "format": "Social",
     "partner": "Eragon Events",
     "location": "Online",
-    "attendees": 21,
+    "attendees": 22,
     "luma_url": "https://lu.ma/eragon-7ro4"
   },
   {
@@ -106,7 +106,7 @@
     "format": "Workshop",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 42,
+    "attendees": 47,
     "luma_url": "https://lu.ma/2u41m1im"
   },
   {
@@ -116,7 +116,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 241,
+    "attendees": 245,
     "luma_url": "https://lu.ma/founderbbqbash"
   },
   {
@@ -180,6 +180,16 @@
     "luma_url": "https://lu.ma/m6gib2iu"
   },
   {
+    "id": "qtuxy56z",
+    "date": "2026-08-02",
+    "name": "YC S26 Kayaking Day",
+    "format": "Other",
+    "partner": null,
+    "location": "Online",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/qtuxy56z"
+  },
+  {
     "id": "j4pqtkhp",
     "date": "2026-08-02",
     "name": "Corgi Cafe: Dogpatch Open House",
@@ -198,16 +208,6 @@
     "location": "San Francisco",
     "attendees": 0,
     "luma_url": "https://lu.ma/d04ciyns"
-  },
-  {
-    "id": "qtuxy56z",
-    "date": "2026-08-02",
-    "name": "YC S26 Kayaking Day",
-    "format": "Other",
-    "partner": null,
-    "location": "Online",
-    "attendees": 0,
-    "luma_url": "https://lu.ma/qtuxy56z"
   },
   {
     "id": "frzdck41",
