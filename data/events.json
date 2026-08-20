@@ -6,7 +6,7 @@
     "format": "Coworking",
     "partner": "Temporal Community",
     "location": "San Francisco",
-    "attendees": 75,
+    "attendees": 83,
     "luma_url": "https://lu.ma/cafe-cowork-temporal"
   },
   {
@@ -36,7 +36,7 @@
     "format": "Other",
     "partner": "The SF Grind",
     "location": "San Francisco",
-    "attendees": 26,
+    "attendees": 28,
     "luma_url": "https://lu.ma/na2pz2q9"
   },
   {
@@ -46,7 +46,7 @@
     "format": "Social",
     "partner": "Maxima AI",
     "location": "San Francisco",
-    "attendees": 72,
+    "attendees": 76,
     "luma_url": "https://lu.ma/zldz99jj"
   },
   {
@@ -66,8 +66,18 @@
     "format": "Pitch",
     "partner": "Raisi",
     "location": "San Francisco",
-    "attendees": 308,
+    "attendees": 381,
     "luma_url": "https://lu.ma/raisi-g87x"
+  },
+  {
+    "id": "weared-zzo9",
+    "date": "2026-08-19",
+    "name": "Help Me Fix This...with WeAreDevelopers",
+    "format": "Other",
+    "partner": "WeAreDevelopers",
+    "location": "San Francisco",
+    "attendees": 101,
+    "luma_url": "https://lu.ma/weared-zzo9"
   },
   {
     "id": "4l30gml2",
@@ -78,16 +88,6 @@
     "location": "Online",
     "attendees": 2,
     "luma_url": "https://lu.ma/4l30gml2"
-  },
-  {
-    "id": "weared-zzo9",
-    "date": "2026-08-19",
-    "name": "Help Me Fix This...with WeAreDevelopers",
-    "format": "Other",
-    "partner": "WeAreDevelopers",
-    "location": "San Francisco",
-    "attendees": 97,
-    "luma_url": "https://lu.ma/weared-zzo9"
   },
   {
     "id": "2u41m1im",
