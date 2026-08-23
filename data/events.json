@@ -6,7 +6,7 @@
     "format": "Social",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 0,
+    "attendees": 4,
     "luma_url": "https://lu.ma/ebxhglqs"
   },
   {
@@ -16,7 +16,7 @@
     "format": "Coworking",
     "partner": "Temporal Community",
     "location": "San Francisco",
-    "attendees": 94,
+    "attendees": 107,
     "luma_url": "https://lu.ma/cafe-cowork-temporal"
   },
   {
@@ -26,7 +26,7 @@
     "format": "Other",
     "partner": null,
     "location": "Online",
-    "attendees": 5,
+    "attendees": 9,
     "luma_url": "https://lu.ma/j9lpxk1n"
   },
   {
@@ -60,16 +60,6 @@
     "luma_url": "https://lu.ma/na2pz2q9"
   },
   {
-    "id": "eotdkxhw",
-    "date": "2026-08-27",
-    "name": "Paint & Sip with Corgi",
-    "format": "Other",
-    "partner": null,
-    "location": "San Francisco",
-    "attendees": 0,
-    "luma_url": "https://lu.ma/eotdkxhw"
-  },
-  {
     "id": "https://partiful.com/e/AsXwhyk56AYnBJWlQfpo?c=EEt1i7Fv",
     "date": "2026-08-27",
     "name": "How do I build a personal brand?",
@@ -80,14 +70,34 @@
     "luma_url": "https://lu.ma/https://partiful.com/e/AsXwhyk56AYnBJWlQfpo?c=EEt1i7Fv"
   },
   {
+    "id": "eotdkxhw",
+    "date": "2026-08-27",
+    "name": "Paint & Sip with Corgi",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/eotdkxhw"
+  },
+  {
     "id": "rg5z9vyc",
     "date": "2026-08-25",
     "name": "The Ultimate Catan Tournament w/ Corgi & Gutgutgoose",
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 5,
+    "attendees": 7,
     "luma_url": "https://lu.ma/rg5z9vyc"
+  },
+  {
+    "id": "scwtnssu",
+    "date": "2026-08-25",
+    "name": "Journaling with Trudy @Corgi Cafe Dogpatch",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 5,
+    "luma_url": "https://lu.ma/scwtnssu"
   },
   {
     "id": "pehtpmwx",
@@ -96,7 +106,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 18,
+    "attendees": 34,
     "luma_url": "https://lu.ma/pehtpmwx"
   },
   {
@@ -106,7 +116,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 0,
+    "attendees": 16,
     "luma_url": "https://lu.ma/ncoebbg5"
   },
   {
@@ -746,7 +756,7 @@
     "format": "Talk",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 384,
+    "attendees": 383,
     "luma_url": "https://lu.ma/4y89vpyu"
   },
   {
