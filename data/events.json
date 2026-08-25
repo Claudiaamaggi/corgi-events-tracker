@@ -6,7 +6,7 @@
     "format": "Social",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 393,
+    "attendees": 561,
     "luma_url": "https://lu.ma/ebxhglqs"
   },
   {
@@ -16,7 +16,7 @@
     "format": "Coworking",
     "partner": "Temporal Community",
     "location": "San Francisco",
-    "attendees": 146,
+    "attendees": 205,
     "luma_url": "https://lu.ma/cafe-cowork-temporal"
   },
   {
@@ -26,7 +26,7 @@
     "format": "Networking",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 0,
+    "attendees": 8,
     "luma_url": "https://lu.ma/nxqxrgcw"
   },
   {
@@ -36,7 +36,7 @@
     "format": "Other",
     "partner": null,
     "location": "Online",
-    "attendees": 9,
+    "attendees": 15,
     "luma_url": "https://lu.ma/j9lpxk1n"
   },
   {
@@ -66,7 +66,7 @@
     "format": "Other",
     "partner": "The SF Grind",
     "location": "San Francisco",
-    "attendees": 45,
+    "attendees": 48,
     "luma_url": "https://lu.ma/na2pz2q9"
   },
   {
@@ -90,6 +90,26 @@
     "luma_url": "https://lu.ma/eotdkxhw"
   },
   {
+    "id": "scwtnssu",
+    "date": "2026-08-25",
+    "name": "Journaling with Trudy @Corgi Cafe Dogpatch",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 45,
+    "luma_url": "https://lu.ma/scwtnssu"
+  },
+  {
+    "id": "pehtpmwx",
+    "date": "2026-08-25",
+    "name": "Canadians @Corgi Cafe",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 60,
+    "luma_url": "https://lu.ma/pehtpmwx"
+  },
+  {
     "id": "rg5z9vyc",
     "date": "2026-08-25",
     "name": "The Ultimate Catan Tournament w/ Corgi & Gutgutgoose",
@@ -100,33 +120,13 @@
     "luma_url": "https://lu.ma/rg5z9vyc"
   },
   {
-    "id": "scwtnssu",
-    "date": "2026-08-25",
-    "name": "Journaling with Trudy @Corgi Cafe Dogpatch",
-    "format": "Other",
-    "partner": null,
-    "location": "San Francisco",
-    "attendees": 30,
-    "luma_url": "https://lu.ma/scwtnssu"
-  },
-  {
-    "id": "pehtpmwx",
-    "date": "2026-08-25",
-    "name": "Canadians @Corgi Cafe",
-    "format": "Other",
-    "partner": null,
-    "location": "San Francisco",
-    "attendees": 40,
-    "luma_url": "https://lu.ma/pehtpmwx"
-  },
-  {
     "id": "ncoebbg5",
     "date": "2026-08-24",
     "name": "Corgi Cafe Coop - Dogpatch Edition",
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 54,
+    "attendees": 110,
     "luma_url": "https://lu.ma/ncoebbg5"
   },
   {
