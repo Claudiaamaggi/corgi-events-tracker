@@ -6,7 +6,7 @@
     "format": "Social",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 561,
+    "attendees": 588,
     "luma_url": "https://lu.ma/ebxhglqs"
   },
   {
@@ -16,7 +16,7 @@
     "format": "Coworking",
     "partner": "Temporal Community",
     "location": "San Francisco",
-    "attendees": 205,
+    "attendees": 251,
     "luma_url": "https://lu.ma/cafe-cowork-temporal"
   },
   {
@@ -26,7 +26,7 @@
     "format": "Networking",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 8,
+    "attendees": 13,
     "luma_url": "https://lu.ma/nxqxrgcw"
   },
   {
@@ -36,7 +36,7 @@
     "format": "Other",
     "partner": null,
     "location": "Online",
-    "attendees": 15,
+    "attendees": 19,
     "luma_url": "https://lu.ma/j9lpxk1n"
   },
   {
@@ -66,8 +66,18 @@
     "format": "Other",
     "partner": "The SF Grind",
     "location": "San Francisco",
-    "attendees": 48,
+    "attendees": 53,
     "luma_url": "https://lu.ma/na2pz2q9"
+  },
+  {
+    "id": "gc6wjhku",
+    "date": "2026-08-27",
+    "name": "Founders Paint & Sip with Lovart & Corgi",
+    "format": "Other",
+    "partner": "Lovart",
+    "location": "San Francisco",
+    "attendees": 35,
+    "luma_url": "https://lu.ma/gc6wjhku"
   },
   {
     "id": "https://partiful.com/e/AsXwhyk56AYnBJWlQfpo?c=EEt1i7Fv",
@@ -90,24 +100,24 @@
     "luma_url": "https://lu.ma/eotdkxhw"
   },
   {
-    "id": "scwtnssu",
-    "date": "2026-08-25",
-    "name": "Journaling with Trudy @Corgi Cafe Dogpatch",
-    "format": "Other",
-    "partner": null,
-    "location": "San Francisco",
-    "attendees": 45,
-    "luma_url": "https://lu.ma/scwtnssu"
-  },
-  {
     "id": "pehtpmwx",
     "date": "2026-08-25",
     "name": "Canadians @Corgi Cafe",
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 60,
+    "attendees": 72,
     "luma_url": "https://lu.ma/pehtpmwx"
+  },
+  {
+    "id": "scwtnssu",
+    "date": "2026-08-25",
+    "name": "Journaling with Trudy @Corgi Cafe Dogpatch",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 46,
+    "luma_url": "https://lu.ma/scwtnssu"
   },
   {
     "id": "rg5z9vyc",
