@@ -1,12 +1,22 @@
 [
   {
+    "id": "5pio6aze",
+    "date": "2026-09-18",
+    "name": "Founder Office Hours + Drink Drop ☕🐾",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 1,
+    "luma_url": "https://lu.ma/5pio6aze"
+  },
+  {
     "id": "ebxhglqs",
     "date": "2026-09-04",
     "name": "Corgi Cafe: Hello, Dogpatch Party",
     "format": "Social",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 628,
+    "attendees": 660,
     "luma_url": "https://lu.ma/ebxhglqs"
   },
   {
@@ -16,7 +26,7 @@
     "format": "Coworking",
     "partner": "Temporal Community",
     "location": "San Francisco",
-    "attendees": 295,
+    "attendees": 355,
     "luma_url": "https://lu.ma/cafe-cowork-temporal"
   },
   {
@@ -26,7 +36,7 @@
     "format": "Networking",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 18,
+    "attendees": 124,
     "luma_url": "https://lu.ma/nxqxrgcw"
   },
   {
@@ -36,8 +46,28 @@
     "format": "Other",
     "partner": null,
     "location": "Online",
-    "attendees": 27,
+    "attendees": 32,
     "luma_url": "https://lu.ma/j9lpxk1n"
+  },
+  {
+    "id": "na2pz2q9",
+    "date": "2026-08-28",
+    "name": "The SF Grind: SF Startup Community Coffee Meetup",
+    "format": "Other",
+    "partner": "The SF Grind",
+    "location": "San Francisco",
+    "attendees": 71,
+    "luma_url": "https://lu.ma/na2pz2q9"
+  },
+  {
+    "id": "tjo8mlo3",
+    "date": "2026-08-28",
+    "name": "Gallery After Dark: Merge x Eragon x Corgi Founders Happy Hour",
+    "format": "Networking",
+    "partner": "Merge Events",
+    "location": "San Francisco",
+    "attendees": 359,
+    "luma_url": "https://lu.ma/tjo8mlo3"
   },
   {
     "id": "HOPRpersona",
@@ -50,24 +80,14 @@
     "luma_url": "https://lu.ma/HOPRpersona"
   },
   {
-    "id": "tjo8mlo3",
-    "date": "2026-08-28",
-    "name": "Gallery After Dark: Merge x Eragon x Corgi Founders Happy Hour",
-    "format": "Networking",
-    "partner": "Merge Events",
-    "location": "San Francisco",
-    "attendees": 338,
-    "luma_url": "https://lu.ma/tjo8mlo3"
-  },
-  {
-    "id": "na2pz2q9",
-    "date": "2026-08-28",
-    "name": "The SF Grind: SF Startup Community Coffee Meetup",
+    "id": "https://partiful.com/e/AsXwhyk56AYnBJWlQfpo?c=EEt1i7Fv",
+    "date": "2026-08-27",
+    "name": "How do I build a personal brand?",
     "format": "Other",
-    "partner": "The SF Grind",
+    "partner": null,
     "location": "San Francisco",
-    "attendees": 57,
-    "luma_url": "https://lu.ma/na2pz2q9"
+    "attendees": 0,
+    "luma_url": "https://lu.ma/https://partiful.com/e/AsXwhyk56AYnBJWlQfpo?c=EEt1i7Fv"
   },
   {
     "id": "gc6wjhku",
@@ -78,16 +98,6 @@
     "location": "San Francisco",
     "attendees": 43,
     "luma_url": "https://lu.ma/gc6wjhku"
-  },
-  {
-    "id": "https://partiful.com/e/AsXwhyk56AYnBJWlQfpo?c=EEt1i7Fv",
-    "date": "2026-08-27",
-    "name": "How do I build a personal brand?",
-    "format": "Other",
-    "partner": null,
-    "location": "San Francisco",
-    "attendees": 0,
-    "luma_url": "https://lu.ma/https://partiful.com/e/AsXwhyk56AYnBJWlQfpo?c=EEt1i7Fv"
   },
   {
     "id": "eotdkxhw",
