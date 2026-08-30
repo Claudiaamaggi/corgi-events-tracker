@@ -6,7 +6,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 1,
+    "attendees": 3,
     "luma_url": "https://lu.ma/5pio6aze"
   },
   {
@@ -16,7 +16,7 @@
     "format": "Social",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 685,
+    "attendees": 694,
     "luma_url": "https://lu.ma/ebxhglqs"
   },
   {
@@ -26,8 +26,18 @@
     "format": "Coworking",
     "partner": "Temporal Community",
     "location": "San Francisco",
-    "attendees": 398,
+    "attendees": 440,
     "luma_url": "https://lu.ma/cafe-cowork-temporal"
+  },
+  {
+    "id": "j9lpxk1n",
+    "date": "2026-08-29",
+    "name": "YC vs Speedrun padel battle",
+    "format": "Other",
+    "partner": null,
+    "location": "Online",
+    "attendees": 49,
+    "luma_url": "https://lu.ma/j9lpxk1n"
   },
   {
     "id": "nxqxrgcw",
@@ -38,16 +48,6 @@
     "location": "San Francisco",
     "attendees": 167,
     "luma_url": "https://lu.ma/nxqxrgcw"
-  },
-  {
-    "id": "j9lpxk1n",
-    "date": "2026-08-29",
-    "name": "YC vs Speedrun padel battle",
-    "format": "Other",
-    "partner": null,
-    "location": "Online",
-    "attendees": 48,
-    "luma_url": "https://lu.ma/j9lpxk1n"
   },
   {
     "id": "na2pz2q9",
@@ -136,7 +136,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 25,
+    "attendees": 28,
     "luma_url": "https://lu.ma/rg5z9vyc"
   },
   {
