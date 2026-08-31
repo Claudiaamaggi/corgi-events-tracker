@@ -6,7 +6,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 3,
+    "attendees": 4,
     "luma_url": "https://lu.ma/5pio6aze"
   },
   {
@@ -16,7 +16,7 @@
     "format": "Social",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 694,
+    "attendees": 705,
     "luma_url": "https://lu.ma/ebxhglqs"
   },
   {
@@ -26,7 +26,7 @@
     "format": "Coworking",
     "partner": "Temporal Community",
     "location": "San Francisco",
-    "attendees": 440,
+    "attendees": 541,
     "luma_url": "https://lu.ma/cafe-cowork-temporal"
   },
   {
@@ -136,7 +136,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 28,
+    "attendees": 48,
     "luma_url": "https://lu.ma/rg5z9vyc"
   },
   {
