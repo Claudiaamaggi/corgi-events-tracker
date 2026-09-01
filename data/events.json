@@ -1,5 +1,15 @@
 [
   {
+    "id": "1e1oigq1",
+    "date": "2026-10-01",
+    "name": "Late Night C.H.I.P Sessions",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/1e1oigq1"
+  },
+  {
     "id": "5pio6aze",
     "date": "2026-09-18",
     "name": "Founder Office Hours + Drink Drop ☕🐾",
@@ -10,13 +20,33 @@
     "luma_url": "https://lu.ma/5pio6aze"
   },
   {
+    "id": "kzj6q924",
+    "date": "2026-09-13",
+    "name": "YC S26 DEMO DAY PARTY CELEBRATION",
+    "format": "Demo day",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/kzj6q924"
+  },
+  {
+    "id": "kf5x9xjg",
+    "date": "2026-09-05",
+    "name": "Shawarma & Startups - MENA Founders",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 7,
+    "luma_url": "https://lu.ma/kf5x9xjg"
+  },
+  {
     "id": "ebxhglqs",
     "date": "2026-09-04",
     "name": "Corgi Cafe: Hello, Dogpatch Party",
     "format": "Social",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 705,
+    "attendees": 791,
     "luma_url": "https://lu.ma/ebxhglqs"
   },
   {
@@ -26,8 +56,18 @@
     "format": "Coworking",
     "partner": "Temporal Community",
     "location": "San Francisco",
-    "attendees": 546,
+    "attendees": 567,
     "luma_url": "https://lu.ma/cafe-cowork-temporal"
+  },
+  {
+    "id": "z39z4s8v",
+    "date": "2026-09-03",
+    "name": "Founders Paint & Sip with Lovart & Corgi",
+    "format": "Other",
+    "partner": "Lovart",
+    "location": "San Francisco",
+    "attendees": 10,
+    "luma_url": "https://lu.ma/z39z4s8v"
   },
   {
     "id": "j9lpxk1n",
@@ -136,7 +176,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 48,
+    "attendees": 57,
     "luma_url": "https://lu.ma/rg5z9vyc"
   },
   {
