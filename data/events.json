@@ -6,7 +6,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 0,
+    "attendees": 2,
     "luma_url": "https://lu.ma/1e1oigq1"
   },
   {
@@ -36,7 +36,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 7,
+    "attendees": 16,
     "luma_url": "https://lu.ma/kf5x9xjg"
   },
   {
@@ -46,7 +46,7 @@
     "format": "Social",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 791,
+    "attendees": 821,
     "luma_url": "https://lu.ma/ebxhglqs"
   },
   {
@@ -56,7 +56,7 @@
     "format": "Coworking",
     "partner": "Temporal Community",
     "location": "San Francisco",
-    "attendees": 567,
+    "attendees": 564,
     "luma_url": "https://lu.ma/cafe-cowork-temporal"
   },
   {
@@ -66,7 +66,7 @@
     "format": "Other",
     "partner": "Lovart",
     "location": "San Francisco",
-    "attendees": 10,
+    "attendees": 20,
     "luma_url": "https://lu.ma/z39z4s8v"
   },
   {
@@ -150,6 +150,16 @@
     "luma_url": "https://lu.ma/eotdkxhw"
   },
   {
+    "id": "rg5z9vyc",
+    "date": "2026-08-25",
+    "name": "The Ultimate Catan Tournament w/ Corgi & Gutgutgoose",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 64,
+    "luma_url": "https://lu.ma/rg5z9vyc"
+  },
+  {
     "id": "pehtpmwx",
     "date": "2026-08-25",
     "name": "Canadians @Corgi Cafe",
@@ -168,16 +178,6 @@
     "location": "San Francisco",
     "attendees": 46,
     "luma_url": "https://lu.ma/scwtnssu"
-  },
-  {
-    "id": "rg5z9vyc",
-    "date": "2026-08-25",
-    "name": "The Ultimate Catan Tournament w/ Corgi & Gutgutgoose",
-    "format": "Other",
-    "partner": null,
-    "location": "San Francisco",
-    "attendees": 57,
-    "luma_url": "https://lu.ma/rg5z9vyc"
   },
   {
     "id": "ncoebbg5",
@@ -206,7 +206,7 @@
     "format": "Social",
     "partner": "Maxima AI",
     "location": "San Francisco",
-    "attendees": 91,
+    "attendees": 90,
     "luma_url": "https://lu.ma/zldz99jj"
   },
   {
