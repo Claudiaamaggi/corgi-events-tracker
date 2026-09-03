@@ -1,5 +1,15 @@
 [
   {
+    "id": "copilo-y6wx",
+    "date": "2026-10-06",
+    "name": "Ship it & Sip it: Software Factories Night",
+    "format": "Other",
+    "partner": "CopilotKit",
+    "location": "San Francisco",
+    "attendees": 2,
+    "luma_url": "https://lu.ma/copilo-y6wx"
+  },
+  {
     "id": "1e1oigq1",
     "date": "2026-10-01",
     "name": "Late Night C.H.I.P Sessions",
@@ -36,7 +46,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 16,
+    "attendees": 35,
     "luma_url": "https://lu.ma/kf5x9xjg"
   },
   {
@@ -46,7 +56,7 @@
     "format": "Social",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 821,
+    "attendees": 844,
     "luma_url": "https://lu.ma/ebxhglqs"
   },
   {
@@ -56,7 +66,7 @@
     "format": "Coworking",
     "partner": "Temporal Community",
     "location": "San Francisco",
-    "attendees": 564,
+    "attendees": 563,
     "luma_url": "https://lu.ma/cafe-cowork-temporal"
   },
   {
@@ -66,7 +76,7 @@
     "format": "Other",
     "partner": "Lovart",
     "location": "San Francisco",
-    "attendees": 20,
+    "attendees": 44,
     "luma_url": "https://lu.ma/z39z4s8v"
   },
   {
@@ -996,7 +1006,7 @@
     "format": "Social",
     "partner": "Anything",
     "location": "San Francisco",
-    "attendees": 643,
+    "attendees": 644,
     "luma_url": "https://lu.ma/h06u0dux"
   },
   {
