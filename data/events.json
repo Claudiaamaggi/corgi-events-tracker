@@ -6,7 +6,7 @@
     "format": "Other",
     "partner": "CopilotKit",
     "location": "San Francisco",
-    "attendees": 3,
+    "attendees": 9,
     "luma_url": "https://lu.ma/copilo-y6wx"
   },
   {
@@ -26,7 +26,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 6,
+    "attendees": 9,
     "luma_url": "https://lu.ma/5pio6aze"
   },
   {
@@ -46,8 +46,18 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 56,
+    "attendees": 76,
     "luma_url": "https://lu.ma/kf5x9xjg"
+  },
+  {
+    "id": "cafe-cowork-temporal",
+    "date": "2026-09-04",
+    "name": "Cafe Cowork: Temporal x Corgi",
+    "format": "Coworking",
+    "partner": "Temporal Community",
+    "location": "San Francisco",
+    "attendees": 523,
+    "luma_url": "https://lu.ma/cafe-cowork-temporal"
   },
   {
     "id": "ebxhglqs",
@@ -58,16 +68,6 @@
     "location": "San Francisco",
     "attendees": 998,
     "luma_url": "https://lu.ma/ebxhglqs"
-  },
-  {
-    "id": "cafe-cowork-temporal",
-    "date": "2026-09-04",
-    "name": "Cafe Cowork: Temporal x Corgi",
-    "format": "Coworking",
-    "partner": "Temporal Community",
-    "location": "San Francisco",
-    "attendees": 543,
-    "luma_url": "https://lu.ma/cafe-cowork-temporal"
   },
   {
     "id": "z39z4s8v",
