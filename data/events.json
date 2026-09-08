@@ -6,7 +6,7 @@
     "format": "Other",
     "partner": "CopilotKit",
     "location": "San Francisco",
-    "attendees": 15,
+    "attendees": 16,
     "luma_url": "https://lu.ma/copilo-y6wx"
   },
   {
@@ -26,7 +26,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 11,
+    "attendees": 15,
     "luma_url": "https://lu.ma/5pio6aze"
   },
   {
@@ -38,6 +38,16 @@
     "location": "San Francisco",
     "attendees": 0,
     "luma_url": "https://lu.ma/kzj6q924"
+  },
+  {
+    "id": "l1cg156f",
+    "date": "2026-09-10",
+    "name": "Growth After Hours with Pomo @ Corgi Cafe",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/l1cg156f"
   },
   {
     "id": "kf5x9xjg",
