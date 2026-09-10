@@ -1,12 +1,32 @@
 [
   {
+    "id": "https://partiful.com/e/bcyNSyjcztabVzmdr3Ll",
+    "date": "2026-10-07",
+    "name": "Deep Tech Demo Night - SF Tech Week",
+    "format": "Demo day",
+    "partner": null,
+    "location": "Online",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/https://partiful.com/e/bcyNSyjcztabVzmdr3Ll"
+  },
+  {
+    "id": "https://partiful.com/e/MbViHdsPkuuaTGvqWldA",
+    "date": "2026-10-07",
+    "name": "Aircraft Carrier Launch Party - SF Tech Week",
+    "format": "Social",
+    "partner": null,
+    "location": "Online",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/https://partiful.com/e/MbViHdsPkuuaTGvqWldA"
+  },
+  {
     "id": "copilo-y6wx",
     "date": "2026-10-06",
     "name": "Ship it & Sip it: Software Factories Night",
     "format": "Other",
     "partner": "CopilotKit",
     "location": "San Francisco",
-    "attendees": 19,
+    "attendees": 25,
     "luma_url": "https://lu.ma/copilo-y6wx"
   },
   {
@@ -66,7 +86,7 @@
     "format": "Coworking",
     "partner": "Temporal Community",
     "location": "San Francisco",
-    "attendees": 523,
+    "attendees": 522,
     "luma_url": "https://lu.ma/cafe-cowork-temporal"
   },
   {
@@ -76,7 +96,7 @@
     "format": "Social",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 998,
+    "attendees": 997,
     "luma_url": "https://lu.ma/ebxhglqs"
   },
   {
@@ -86,7 +106,7 @@
     "format": "Other",
     "partner": "Lovart",
     "location": "San Francisco",
-    "attendees": 44,
+    "attendees": 43,
     "luma_url": "https://lu.ma/z39z4s8v"
   },
   {
@@ -116,7 +136,7 @@
     "format": "Other",
     "partner": "The SF Grind",
     "location": "San Francisco",
-    "attendees": 71,
+    "attendees": 70,
     "luma_url": "https://lu.ma/na2pz2q9"
   },
   {
@@ -126,7 +146,7 @@
     "format": "Networking",
     "partner": "Merge Events",
     "location": "San Francisco",
-    "attendees": 359,
+    "attendees": 357,
     "luma_url": "https://lu.ma/tjo8mlo3"
   },
   {
@@ -176,7 +196,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 64,
+    "attendees": 63,
     "luma_url": "https://lu.ma/rg5z9vyc"
   },
   {
@@ -186,7 +206,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 73,
+    "attendees": 72,
     "luma_url": "https://lu.ma/pehtpmwx"
   },
   {
@@ -196,7 +216,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 46,
+    "attendees": 45,
     "luma_url": "https://lu.ma/scwtnssu"
   },
   {
@@ -206,7 +226,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 110,
+    "attendees": 109,
     "luma_url": "https://lu.ma/ncoebbg5"
   },
   {
@@ -236,7 +256,7 @@
     "format": "Pitch",
     "partner": "Raisi",
     "location": "San Francisco",
-    "attendees": 382,
+    "attendees": 381,
     "luma_url": "https://lu.ma/raisi-g87x"
   },
   {
@@ -436,7 +456,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 282,
+    "attendees": 281,
     "luma_url": "https://lu.ma/gtm-breakfast-sf"
   },
   {
@@ -916,7 +936,7 @@
     "format": "Other",
     "partner": "Agent Intros",
     "location": "San Francisco",
-    "attendees": 118,
+    "attendees": 117,
     "luma_url": "https://lu.ma/3n4ntouj"
   },
   {
@@ -936,7 +956,7 @@
     "format": "Other",
     "partner": "Google DeepMind",
     "location": "San Francisco",
-    "attendees": 399,
+    "attendees": 398,
     "luma_url": "https://lu.ma/b8tg4qst"
   },
   {
@@ -946,7 +966,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 299,
+    "attendees": 298,
     "luma_url": "https://lu.ma/s8ax4zfy"
   },
   {
@@ -1026,7 +1046,7 @@
     "format": "Workshop",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 298,
+    "attendees": 297,
     "luma_url": "https://lu.ma/b7kg8vno"
   },
   {
@@ -1046,7 +1066,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 382,
+    "attendees": 381,
     "luma_url": "https://lu.ma/iqc1s9b1"
   },
   {
@@ -1186,7 +1206,7 @@
     "format": "Other",
     "partner": "Agent Intros",
     "location": "San Francisco",
-    "attendees": 160,
+    "attendees": 159,
     "luma_url": "https://lu.ma/iiexoonu"
   },
   {
