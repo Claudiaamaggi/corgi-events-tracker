@@ -1,5 +1,15 @@
 [
   {
+    "id": "usecorgi-re50",
+    "date": "2026-10-09",
+    "name": "Founders Race Night",
+    "format": "Other",
+    "partner": null,
+    "location": "South San Francisco",
+    "attendees": 2,
+    "luma_url": "https://lu.ma/usecorgi-re50"
+  },
+  {
     "id": "https://partiful.com/e/bcyNSyjcztabVzmdr3Ll",
     "date": "2026-10-07",
     "name": "Deep Tech Demo Night - SF Tech Week",
@@ -26,7 +36,7 @@
     "format": "Other",
     "partner": "CopilotKit",
     "location": "San Francisco",
-    "attendees": 75,
+    "attendees": 113,
     "luma_url": "https://lu.ma/copilo-y6wx"
   },
   {
@@ -36,8 +46,48 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 14,
+    "attendees": 73,
     "luma_url": "https://lu.ma/1e1oigq1"
+  },
+  {
+    "id": "usecorgi-ac1z",
+    "date": "2026-09-27",
+    "name": "Founders Run and Recovery",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 3,
+    "luma_url": "https://lu.ma/usecorgi-ac1z"
+  },
+  {
+    "id": "fqmx6am3",
+    "date": "2026-09-27",
+    "name": "Gtting unstuck",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/fqmx6am3"
+  },
+  {
+    "id": "PRLSFdebut",
+    "date": "2026-09-24",
+    "name": "Pitch Roast Live - The S.F. Debut",
+    "format": "Pitch",
+    "partner": "Pitch Roast Live 🔥",
+    "location": "San Francisco",
+    "attendees": 80,
+    "luma_url": "https://lu.ma/PRLSFdebut"
+  },
+  {
+    "id": "ai-gtm-breakfast",
+    "date": "2026-09-22",
+    "name": "Daytona & ZeroClick AI GTM Breakfast - SF, September 2026 @Corgi Cafe - Dogpatch",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 146,
+    "luma_url": "https://lu.ma/ai-gtm-breakfast"
   },
   {
     "id": "5pio6aze",
@@ -46,8 +96,18 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 21,
+    "attendees": 24,
     "luma_url": "https://lu.ma/5pio6aze"
+  },
+  {
+    "id": "openro-6w7m",
+    "date": "2026-09-15",
+    "name": "Breakfast & Coffee",
+    "format": "Other",
+    "partner": "OpenRouter Events",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/openro-6w7m"
   },
   {
     "id": "kzj6q924",
@@ -86,7 +146,7 @@
     "format": "Coworking",
     "partner": "Temporal Community",
     "location": "San Francisco",
-    "attendees": 522,
+    "attendees": 521,
     "luma_url": "https://lu.ma/cafe-cowork-temporal"
   },
   {
