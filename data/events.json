@@ -36,7 +36,7 @@
     "format": "Other",
     "partner": "CopilotKit",
     "location": "San Francisco",
-    "attendees": 114,
+    "attendees": 148,
     "luma_url": "https://lu.ma/copilo-y6wx"
   },
   {
@@ -46,7 +46,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 73,
+    "attendees": 81,
     "luma_url": "https://lu.ma/1e1oigq1"
   },
   {
@@ -56,7 +56,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 3,
+    "attendees": 6,
     "luma_url": "https://lu.ma/usecorgi-ac1z"
   },
   {
@@ -76,7 +76,7 @@
     "format": "Pitch",
     "partner": "Pitch Roast Live 🔥",
     "location": "San Francisco",
-    "attendees": 80,
+    "attendees": 91,
     "luma_url": "https://lu.ma/PRLSFdebut"
   },
   {
@@ -86,8 +86,18 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 146,
+    "attendees": 159,
     "luma_url": "https://lu.ma/ai-gtm-breakfast"
+  },
+  {
+    "id": "usecorgi-lsaw",
+    "date": "2026-09-19",
+    "name": "F26 Founders Game & Paint Night",
+    "format": "Game",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/usecorgi-lsaw"
   },
   {
     "id": "5pio6aze",
