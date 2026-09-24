@@ -10,23 +10,13 @@
     "luma_url": "https://lu.ma/il2mn1sa"
   },
   {
-    "id": "https://partiful.com/e/v7PZURe354ptseSvhzzr",
-    "date": "2026-10-09",
-    "name": "Scaling without \"Risk\" in play: Compliance + Insurance for Startups - #SFTechWeek",
-    "format": "Other",
-    "partner": null,
-    "location": "Online",
-    "attendees": 0,
-    "luma_url": "https://lu.ma/https://partiful.com/e/v7PZURe354ptseSvhzzr"
-  },
-  {
     "id": "mdxzgzaa",
     "date": "2026-10-09",
     "name": "Scaling without \"Risk\" in play: Compliance + Insurance for Startups - SF Tech Week",
     "format": "Other",
     "partner": "EU Presence",
     "location": "San Francisco",
-    "attendees": 18,
+    "attendees": 20,
     "luma_url": "https://lu.ma/mdxzgzaa"
   },
   {
@@ -38,6 +28,16 @@
     "location": "South San Francisco",
     "attendees": 2,
     "luma_url": "https://lu.ma/usecorgi-re50"
+  },
+  {
+    "id": "https://partiful.com/e/v7PZURe354ptseSvhzzr",
+    "date": "2026-10-09",
+    "name": "Scaling without \"Risk\" in play: Compliance + Insurance for Startups - #SFTechWeek",
+    "format": "Other",
+    "partner": null,
+    "location": "Online",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/https://partiful.com/e/v7PZURe354ptseSvhzzr"
   },
   {
     "id": "https://partiful.com/e/zaE62kAf1JUoZxtdT82h",
@@ -76,7 +76,7 @@
     "format": "Other",
     "partner": "CopilotKit",
     "location": "San Francisco",
-    "attendees": 348,
+    "attendees": 405,
     "luma_url": "https://lu.ma/copilo-y6wx"
   },
   {
@@ -96,7 +96,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 100,
+    "attendees": 104,
     "luma_url": "https://lu.ma/1e1oigq1"
   },
   {
@@ -106,7 +106,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 40,
+    "attendees": 43,
     "luma_url": "https://lu.ma/usecorgi-ac1z"
   },
   {
@@ -136,7 +136,7 @@
     "format": "Pitch",
     "partner": "Pitch Roast Live 🔥",
     "location": "San Francisco",
-    "attendees": 206,
+    "attendees": 247,
     "luma_url": "https://lu.ma/PRLSFdebut"
   },
   {
