@@ -16,7 +16,7 @@
     "format": "Other",
     "partner": "EU Presence",
     "location": "San Francisco",
-    "attendees": 24,
+    "attendees": 26,
     "luma_url": "https://lu.ma/mdxzgzaa"
   },
   {
@@ -76,7 +76,7 @@
     "format": "Other",
     "partner": "CopilotKit",
     "location": "San Francisco",
-    "attendees": 420,
+    "attendees": 475,
     "luma_url": "https://lu.ma/copilo-y6wx"
   },
   {
@@ -90,13 +90,23 @@
     "luma_url": "https://lu.ma/https://partiful.com/e/xWOLkVDQgoMXpVDvjYcd"
   },
   {
+    "id": "fj1r2uu7",
+    "date": "2026-10-02",
+    "name": "Multiplayer AI & How We Get There",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 40,
+    "luma_url": "https://lu.ma/fj1r2uu7"
+  },
+  {
     "id": "1e1oigq1",
     "date": "2026-10-01",
     "name": "Late Night C.H.I.P Sessions",
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 108,
+    "attendees": 109,
     "luma_url": "https://lu.ma/1e1oigq1"
   },
   {
@@ -106,7 +116,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 58,
+    "attendees": 62,
     "luma_url": "https://lu.ma/usecorgi-ac1z"
   },
   {
@@ -386,7 +396,7 @@
     "format": "Social",
     "partner": "Maxima AI",
     "location": "San Francisco",
-    "attendees": 90,
+    "attendees": 91,
     "luma_url": "https://lu.ma/zldz99jj"
   },
   {
