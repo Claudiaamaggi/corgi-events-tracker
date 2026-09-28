@@ -16,7 +16,7 @@
     "format": "Other",
     "partner": "EU Presence",
     "location": "San Francisco",
-    "attendees": 33,
+    "attendees": 41,
     "luma_url": "https://lu.ma/mdxzgzaa"
   },
   {
@@ -50,6 +50,26 @@
     "luma_url": "https://lu.ma/https://partiful.com/e/zaE62kAf1JUoZxtdT82h"
   },
   {
+    "id": "zja76ejz",
+    "date": "2026-10-07",
+    "name": "USS Hornet Deep Tech Demo Night - #SFTechWeek",
+    "format": "Demo day",
+    "partner": "Seed2Table",
+    "location": "Alameda",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/zja76ejz"
+  },
+  {
+    "id": "q24t8t4v",
+    "date": "2026-10-07",
+    "name": "Contextful After Party - SF Tech Week",
+    "format": "Social",
+    "partner": "Sebastian Chapela",
+    "location": "Alameda",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/q24t8t4v"
+  },
+  {
     "id": "https://partiful.com/e/bcyNSyjcztabVzmdr3Ll",
     "date": "2026-10-07",
     "name": "Deep Tech Demo Night - SF Tech Week",
@@ -76,7 +96,7 @@
     "format": "Other",
     "partner": "CopilotKit",
     "location": "San Francisco",
-    "attendees": 499,
+    "attendees": 554,
     "luma_url": "https://lu.ma/copilo-y6wx"
   },
   {
@@ -96,7 +116,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 43,
+    "attendees": 47,
     "luma_url": "https://lu.ma/fj1r2uu7"
   },
   {
@@ -106,7 +126,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 108,
+    "attendees": 106,
     "luma_url": "https://lu.ma/1e1oigq1"
   },
   {
@@ -116,7 +136,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 80,
+    "attendees": 78,
     "luma_url": "https://lu.ma/usecorgi-ac1z"
   },
   {
@@ -1106,7 +1126,7 @@
     "format": "Other",
     "partner": "Google DeepMind",
     "location": "San Francisco",
-    "attendees": 398,
+    "attendees": 397,
     "luma_url": "https://lu.ma/b8tg4qst"
   },
   {
