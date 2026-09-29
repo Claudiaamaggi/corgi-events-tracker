@@ -16,7 +16,7 @@
     "format": "Other",
     "partner": "EU Presence",
     "location": "San Francisco",
-    "attendees": 41,
+    "attendees": 44,
     "luma_url": "https://lu.ma/mdxzgzaa"
   },
   {
@@ -70,6 +70,16 @@
     "luma_url": "https://lu.ma/zja76ejz"
   },
   {
+    "id": "4266q2zq",
+    "date": "2026-10-07",
+    "name": "NYX Gathering @ SF TechWeek",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 11,
+    "luma_url": "https://lu.ma/4266q2zq"
+  },
+  {
     "id": "q24t8t4v",
     "date": "2026-10-07",
     "name": "Contextful After Party - SF Tech Week",
@@ -106,7 +116,7 @@
     "format": "Other",
     "partner": "CopilotKit",
     "location": "San Francisco",
-    "attendees": 558,
+    "attendees": 575,
     "luma_url": "https://lu.ma/copilo-y6wx"
   },
   {
@@ -120,13 +130,23 @@
     "luma_url": "https://lu.ma/https://partiful.com/e/xWOLkVDQgoMXpVDvjYcd"
   },
   {
+    "id": "usecorgi-wphl",
+    "date": "2026-10-04",
+    "name": "Ship Your Culture🥮🥻",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/usecorgi-wphl"
+  },
+  {
     "id": "fj1r2uu7",
     "date": "2026-10-02",
     "name": "Multiplayer AI & How We Get There",
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 47,
+    "attendees": 55,
     "luma_url": "https://lu.ma/fj1r2uu7"
   },
   {
@@ -138,6 +158,16 @@
     "location": "San Francisco",
     "attendees": 113,
     "luma_url": "https://lu.ma/1e1oigq1"
+  },
+  {
+    "id": "w9sg253i",
+    "date": "2026-10-01",
+    "name": "Manus Pop-Up @ Corgi Cafe",
+    "format": "Other",
+    "partner": "Manus Official Events",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/w9sg253i"
   },
   {
     "id": "usecorgi-ac1z",
@@ -1186,7 +1216,7 @@
     "format": "Social",
     "partner": "Special Projects",
     "location": "San Francisco",
-    "attendees": 466,
+    "attendees": 465,
     "luma_url": "https://lu.ma/tt7sweic"
   },
   {
