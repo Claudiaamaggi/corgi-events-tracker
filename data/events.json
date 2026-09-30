@@ -1,5 +1,25 @@
 [
   {
+    "id": "hhyszjb9",
+    "date": "2026-11-17",
+    "name": "Slush Investors Boat Party (OVNI Capital x Corgi)",
+    "format": "Social",
+    "partner": "OVNI Capital",
+    "location": "Helsinki",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/hhyszjb9"
+  },
+  {
+    "id": "va9gkpbb",
+    "date": "2026-10-24",
+    "name": "Founders Paintball - Shor x Corgi x Rho",
+    "format": "Other",
+    "partner": "Shor Community",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/va9gkpbb"
+  },
+  {
     "id": "il2mn1sa",
     "date": "2026-10-20",
     "name": "Filipinos in AI - Let's Meet",
@@ -8,6 +28,36 @@
     "location": "San Francisco",
     "attendees": 0,
     "luma_url": "https://lu.ma/il2mn1sa"
+  },
+  {
+    "id": "https://partiful.com/e/7mBJK6qkKf09A8PaBMKf",
+    "date": "2026-10-11",
+    "name": "Maritime (YC F26) Launch Party at Corgi Cafe\n#SFTechWeek",
+    "format": "Social",
+    "partner": null,
+    "location": "Online",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/https://partiful.com/e/7mBJK6qkKf09A8PaBMKf"
+  },
+  {
+    "id": "https://partiful.com/e/v7PZURe354ptseSvhzzr?",
+    "date": "2026-10-09",
+    "name": "Scaling without \"Risk\" in play: Compliance + Insurance for Startups - #SFTechWeek",
+    "format": "Other",
+    "partner": null,
+    "location": "Online",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/https://partiful.com/e/v7PZURe354ptseSvhzzr?"
+  },
+  {
+    "id": "https://partiful.com/e/935FqbXiitx8b9bjqDmU",
+    "date": "2026-10-09",
+    "name": "Founders Race Night #SFTechWeek",
+    "format": "Other",
+    "partner": null,
+    "location": "Online",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/https://partiful.com/e/935FqbXiitx8b9bjqDmU"
   },
   {
     "id": "mdxzgzaa",
@@ -40,16 +90,6 @@
     "luma_url": "https://lu.ma/https://partiful.com/e/v7PZURe354ptseSvhzzr"
   },
   {
-    "id": "https://partiful.com/e/zaE62kAf1JUoZxtdT82h",
-    "date": "2026-10-08",
-    "name": "Demo Night - Corgi, EF, Infragrid - #SFTechWeek",
-    "format": "Demo day",
-    "partner": null,
-    "location": "Online",
-    "attendees": 0,
-    "luma_url": "https://lu.ma/https://partiful.com/e/zaE62kAf1JUoZxtdT82h"
-  },
-  {
     "id": "https://partiful.com/e/ohe79rq9R52103Z0F9Eb?",
     "date": "2026-10-08",
     "name": "Bring your agent to Breakfast\n#SFTechWeek",
@@ -60,6 +100,16 @@
     "luma_url": "https://lu.ma/https://partiful.com/e/ohe79rq9R52103Z0F9Eb?"
   },
   {
+    "id": "https://partiful.com/e/zaE62kAf1JUoZxtdT82h",
+    "date": "2026-10-08",
+    "name": "Demo Night - Corgi, EF, Infragrid - #SFTechWeek",
+    "format": "Demo day",
+    "partner": null,
+    "location": "Online",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/https://partiful.com/e/zaE62kAf1JUoZxtdT82h"
+  },
+  {
     "id": "zja76ejz",
     "date": "2026-10-07",
     "name": "USS Hornet Deep Tech Demo Night - #SFTechWeek",
@@ -68,6 +118,16 @@
     "location": "Alameda",
     "attendees": 0,
     "luma_url": "https://lu.ma/zja76ejz"
+  },
+  {
+    "id": "valn7erv",
+    "date": "2026-10-07",
+    "name": "The AI Coffee Break",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 1,
+    "luma_url": "https://lu.ma/valn7erv"
   },
   {
     "id": "4266q2zq",
@@ -120,6 +180,16 @@
     "luma_url": "https://lu.ma/copilo-y6wx"
   },
   {
+    "id": "4xjpmq1m",
+    "date": "2026-10-06",
+    "name": "Founder Friends San Francisco",
+    "format": "Other",
+    "partner": "Hustle Fund Events",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/4xjpmq1m"
+  },
+  {
     "id": "https://partiful.com/e/xWOLkVDQgoMXpVDvjYcd",
     "date": "2026-10-06",
     "name": "Eatopia Breakfast Lab: Build your nutrition protocol - #SFTechWeek",
@@ -128,6 +198,16 @@
     "location": "Online",
     "attendees": 0,
     "luma_url": "https://lu.ma/https://partiful.com/e/xWOLkVDQgoMXpVDvjYcd"
+  },
+  {
+    "id": "https://partiful.com/e/IZVriYif8cxjKyEuJEgO",
+    "date": "2026-10-06",
+    "name": "Niural AI + Corgi Cafe = Free Espresso Cold  Foam Float! #sftechweek",
+    "format": "Other",
+    "partner": null,
+    "location": "Online",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/https://partiful.com/e/IZVriYif8cxjKyEuJEgO"
   },
   {
     "id": "usecorgi-wphl",
@@ -146,7 +226,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 55,
+    "attendees": 66,
     "luma_url": "https://lu.ma/fj1r2uu7"
   },
   {
@@ -156,7 +236,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 113,
+    "attendees": 118,
     "luma_url": "https://lu.ma/1e1oigq1"
   },
   {
@@ -306,7 +386,7 @@
     "format": "Social",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 997,
+    "attendees": 996,
     "luma_url": "https://lu.ma/ebxhglqs"
   },
   {
@@ -596,7 +676,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 365,
+    "attendees": 364,
     "luma_url": "https://lu.ma/j4pqtkhp"
   },
   {
@@ -1426,7 +1506,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 224,
+    "attendees": 223,
     "luma_url": "https://lu.ma/2ehb9hcx"
   },
   {
@@ -1486,7 +1566,7 @@
     "format": "Other",
     "partner": "Agent Intros",
     "location": "San Francisco",
-    "attendees": 188,
+    "attendees": 187,
     "luma_url": "https://lu.ma/e8gwzmio"
   },
   {
