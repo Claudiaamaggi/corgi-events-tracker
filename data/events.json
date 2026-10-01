@@ -10,6 +10,16 @@
     "luma_url": "https://lu.ma/hhyszjb9"
   },
   {
+    "id": "usecorgi-fda6",
+    "date": "2026-10-29",
+    "name": "Pancake AI x Corgi",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 1,
+    "luma_url": "https://lu.ma/usecorgi-fda6"
+  },
+  {
     "id": "va9gkpbb",
     "date": "2026-10-24",
     "name": "Founders Paintball - Shor x Corgi x Rho",
@@ -58,6 +68,16 @@
     "location": "Online",
     "attendees": 0,
     "luma_url": "https://lu.ma/https://partiful.com/e/935FqbXiitx8b9bjqDmU"
+  },
+  {
+    "id": "https://partiful.com/e/MNgD0Ir4CmpbvFRZ62VX",
+    "date": "2026-10-09",
+    "name": "The After Close - Speakeasy #SFTechWeek",
+    "format": "Other",
+    "partner": null,
+    "location": "Online",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/https://partiful.com/e/MNgD0Ir4CmpbvFRZ62VX"
   },
   {
     "id": "mdxzgzaa",
@@ -120,13 +140,23 @@
     "luma_url": "https://lu.ma/zja76ejz"
   },
   {
+    "id": "https://partiful.com/e/h1bzMYbQtoRvUkL4jrQk?c=ozIJkt5l",
+    "date": "2026-10-07",
+    "name": "NYX AI BUILDERS NIGHT #SFTechWeek",
+    "format": "Other",
+    "partner": null,
+    "location": "Online",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/https://partiful.com/e/h1bzMYbQtoRvUkL4jrQk?c=ozIJkt5l"
+  },
+  {
     "id": "valn7erv",
     "date": "2026-10-07",
     "name": "The AI Coffee Break",
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 2,
+    "attendees": 4,
     "luma_url": "https://lu.ma/valn7erv"
   },
   {
@@ -176,7 +206,7 @@
     "format": "Other",
     "partner": "CopilotKit",
     "location": "San Francisco",
-    "attendees": 575,
+    "attendees": 649,
     "luma_url": "https://lu.ma/copilo-y6wx"
   },
   {
@@ -216,7 +246,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 0,
+    "attendees": 1,
     "luma_url": "https://lu.ma/usecorgi-wphl"
   },
   {
@@ -226,7 +256,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 66,
+    "attendees": 77,
     "luma_url": "https://lu.ma/fj1r2uu7"
   },
   {
@@ -236,7 +266,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 118,
+    "attendees": 131,
     "luma_url": "https://lu.ma/1e1oigq1"
   },
   {
