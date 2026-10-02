@@ -70,6 +70,16 @@
     "luma_url": "https://lu.ma/https://partiful.com/e/935FqbXiitx8b9bjqDmU"
   },
   {
+    "id": "https://partiful.com/e/FNKowDUHjje8rDxcxWj9",
+    "date": "2026-10-09",
+    "name": "Mercury Presents: YC F26 Kickoff Roller Disco",
+    "format": "Other",
+    "partner": null,
+    "location": "Online",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/https://partiful.com/e/FNKowDUHjje8rDxcxWj9"
+  },
+  {
     "id": "https://partiful.com/e/MNgD0Ir4CmpbvFRZ62VX",
     "date": "2026-10-09",
     "name": "The After Close - Speakeasy #SFTechWeek",
@@ -206,7 +216,7 @@
     "format": "Other",
     "partner": "CopilotKit",
     "location": "San Francisco",
-    "attendees": 650,
+    "attendees": 659,
     "luma_url": "https://lu.ma/copilo-y6wx"
   },
   {
@@ -240,14 +250,34 @@
     "luma_url": "https://lu.ma/https://partiful.com/e/IZVriYif8cxjKyEuJEgO"
   },
   {
+    "id": "metaview-corgi",
+    "date": "2026-10-05",
+    "name": "free coffee with Metaview at the Corgi Cafe.",
+    "format": "Other",
+    "partner": "Metaview",
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/metaview-corgi"
+  },
+  {
     "id": "usecorgi-wphl",
     "date": "2026-10-04",
     "name": "Ship Your Culture🥮🥻",
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 1,
+    "attendees": 6,
     "luma_url": "https://lu.ma/usecorgi-wphl"
+  },
+  {
+    "id": "rnn57zas",
+    "date": "2026-10-03",
+    "name": "Build Your AI Team | A hands-on workshop with Turnstone (YC W26) for your everyday work",
+    "format": "Workshop",
+    "partner": "UpScaleX.AI Events",
+    "location": "Palo Alto",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/rnn57zas"
   },
   {
     "id": "fj1r2uu7",
@@ -256,18 +286,8 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 77,
+    "attendees": 82,
     "luma_url": "https://lu.ma/fj1r2uu7"
-  },
-  {
-    "id": "1e1oigq1",
-    "date": "2026-10-01",
-    "name": "Late Night C.H.I.P Sessions",
-    "format": "Other",
-    "partner": null,
-    "location": "San Francisco",
-    "attendees": 131,
-    "luma_url": "https://lu.ma/1e1oigq1"
   },
   {
     "id": "w9sg253i",
@@ -278,6 +298,16 @@
     "location": "San Francisco",
     "attendees": 0,
     "luma_url": "https://lu.ma/w9sg253i"
+  },
+  {
+    "id": "1e1oigq1",
+    "date": "2026-10-01",
+    "name": "Late Night C.H.I.P Sessions",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 131,
+    "luma_url": "https://lu.ma/1e1oigq1"
   },
   {
     "id": "usecorgi-ac1z",
