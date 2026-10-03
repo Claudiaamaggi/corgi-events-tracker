@@ -120,16 +120,6 @@
     "luma_url": "https://lu.ma/https://partiful.com/e/v7PZURe354ptseSvhzzr"
   },
   {
-    "id": "https://partiful.com/e/ohe79rq9R52103Z0F9Eb?",
-    "date": "2026-10-08",
-    "name": "Bring your agent to Breakfast\n#SFTechWeek",
-    "format": "Other",
-    "partner": null,
-    "location": "Online",
-    "attendees": 0,
-    "luma_url": "https://lu.ma/https://partiful.com/e/ohe79rq9R52103Z0F9Eb?"
-  },
-  {
     "id": "https://partiful.com/e/zaE62kAf1JUoZxtdT82h",
     "date": "2026-10-08",
     "name": "Demo Night - Corgi, EF, Infragrid - #SFTechWeek",
@@ -138,6 +128,16 @@
     "location": "Online",
     "attendees": 0,
     "luma_url": "https://lu.ma/https://partiful.com/e/zaE62kAf1JUoZxtdT82h"
+  },
+  {
+    "id": "https://partiful.com/e/ohe79rq9R52103Z0F9Eb?",
+    "date": "2026-10-08",
+    "name": "Bring your agent to Breakfast\n#SFTechWeek",
+    "format": "Other",
+    "partner": null,
+    "location": "Online",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/https://partiful.com/e/ohe79rq9R52103Z0F9Eb?"
   },
   {
     "id": "zja76ejz",
@@ -168,6 +168,16 @@
     "location": "San Francisco",
     "attendees": 7,
     "luma_url": "https://lu.ma/valn7erv"
+  },
+  {
+    "id": "https://partiful.com/e/6llvnZW8jlWdXZFXKOMH",
+    "date": "2026-10-07",
+    "name": "Mercury & Supabase Happy Hour #SFTechWeek",
+    "format": "Networking",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/https://partiful.com/e/6llvnZW8jlWdXZFXKOMH"
   },
   {
     "id": "4266q2zq",
@@ -216,7 +226,7 @@
     "format": "Other",
     "partner": "CopilotKit",
     "location": "San Francisco",
-    "attendees": 659,
+    "attendees": 664,
     "luma_url": "https://lu.ma/copilo-y6wx"
   },
   {
@@ -250,6 +260,16 @@
     "luma_url": "https://lu.ma/https://partiful.com/e/IZVriYif8cxjKyEuJEgO"
   },
   {
+    "id": "https://partiful.com/e/NuJIL6o1KBCUnGaAOrLS?c=vjK7rLTk",
+    "date": "2026-10-05",
+    "name": "Science x AI  Breakfast - #SFTechWeek",
+    "format": "Other",
+    "partner": null,
+    "location": "Online",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/https://partiful.com/e/NuJIL6o1KBCUnGaAOrLS?c=vjK7rLTk"
+  },
+  {
     "id": "metaview-corgi",
     "date": "2026-10-05",
     "name": "free coffee with Metaview at the Corgi Cafe.",
@@ -266,7 +286,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 6,
+    "attendees": 7,
     "luma_url": "https://lu.ma/usecorgi-wphl"
   },
   {
