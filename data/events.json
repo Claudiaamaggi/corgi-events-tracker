@@ -50,6 +50,16 @@
     "luma_url": "https://lu.ma/https://partiful.com/e/7mBJK6qkKf09A8PaBMKf"
   },
   {
+    "id": "eeapccyv",
+    "date": "2026-10-10",
+    "name": "Build Your AI Team: A Hands-On Workshop with Turnstone × Corgi",
+    "format": "Workshop",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 11,
+    "luma_url": "https://lu.ma/eeapccyv"
+  },
+  {
     "id": "https://partiful.com/e/v7PZURe354ptseSvhzzr?",
     "date": "2026-10-09",
     "name": "Scaling without \"Risk\" in play: Compliance + Insurance for Startups - #SFTechWeek",
@@ -166,7 +176,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 19,
+    "attendees": 27,
     "luma_url": "https://lu.ma/valn7erv"
   },
   {
@@ -226,7 +236,7 @@
     "format": "Other",
     "partner": "CopilotKit",
     "location": "San Francisco",
-    "attendees": 657,
+    "attendees": 656,
     "luma_url": "https://lu.ma/copilo-y6wx"
   },
   {
@@ -260,16 +270,6 @@
     "luma_url": "https://lu.ma/https://partiful.com/e/IZVriYif8cxjKyEuJEgO"
   },
   {
-    "id": "https://partiful.com/e/NuJIL6o1KBCUnGaAOrLS?c=vjK7rLTk",
-    "date": "2026-10-05",
-    "name": "Science x AI  Breakfast - #SFTechWeek",
-    "format": "Other",
-    "partner": null,
-    "location": "Online",
-    "attendees": 0,
-    "luma_url": "https://lu.ma/https://partiful.com/e/NuJIL6o1KBCUnGaAOrLS?c=vjK7rLTk"
-  },
-  {
     "id": "metaview-corgi",
     "date": "2026-10-05",
     "name": "free coffee with Metaview at the Corgi Cafe.",
@@ -278,6 +278,16 @@
     "location": "San Francisco",
     "attendees": 0,
     "luma_url": "https://lu.ma/metaview-corgi"
+  },
+  {
+    "id": "https://partiful.com/e/NuJIL6o1KBCUnGaAOrLS?c=vjK7rLTk",
+    "date": "2026-10-05",
+    "name": "Science x AI  Breakfast - #SFTechWeek",
+    "format": "Other",
+    "partner": null,
+    "location": "Online",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/https://partiful.com/e/NuJIL6o1KBCUnGaAOrLS?c=vjK7rLTk"
   },
   {
     "id": "usecorgi-wphl",
@@ -516,7 +526,7 @@
     "format": "Networking",
     "partner": "Merge Events",
     "location": "San Francisco",
-    "attendees": 357,
+    "attendees": 356,
     "luma_url": "https://lu.ma/tjo8mlo3"
   },
   {
