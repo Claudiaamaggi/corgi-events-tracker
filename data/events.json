@@ -150,16 +150,6 @@
     "luma_url": "https://lu.ma/https://partiful.com/e/ohe79rq9R52103Z0F9Eb?"
   },
   {
-    "id": "zja76ejz",
-    "date": "2026-10-07",
-    "name": "USS Hornet Deep Tech Demo Night - #SFTechWeek",
-    "format": "Demo day",
-    "partner": "Seed2Table",
-    "location": "Alameda",
-    "attendees": 0,
-    "luma_url": "https://lu.ma/zja76ejz"
-  },
-  {
     "id": "https://partiful.com/e/h1bzMYbQtoRvUkL4jrQk?c=ozIJkt5l",
     "date": "2026-10-07",
     "name": "NYX AI BUILDERS NIGHT #SFTechWeek",
@@ -170,14 +160,14 @@
     "luma_url": "https://lu.ma/https://partiful.com/e/h1bzMYbQtoRvUkL4jrQk?c=ozIJkt5l"
   },
   {
-    "id": "valn7erv",
+    "id": "zja76ejz",
     "date": "2026-10-07",
-    "name": "The AI Coffee Break",
-    "format": "Other",
-    "partner": null,
-    "location": "San Francisco",
-    "attendees": 27,
-    "luma_url": "https://lu.ma/valn7erv"
+    "name": "USS Hornet Deep Tech Demo Night - #SFTechWeek",
+    "format": "Demo day",
+    "partner": "Seed2Table",
+    "location": "Alameda",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/zja76ejz"
   },
   {
     "id": "https://partiful.com/e/6llvnZW8jlWdXZFXKOMH",
@@ -188,6 +178,26 @@
     "location": "San Francisco",
     "attendees": 0,
     "luma_url": "https://lu.ma/https://partiful.com/e/6llvnZW8jlWdXZFXKOMH"
+  },
+  {
+    "id": "b54ojqhl",
+    "date": "2026-10-07",
+    "name": "\"Build an Agent\" Hackathon",
+    "format": "Hackathon",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 319,
+    "luma_url": "https://lu.ma/b54ojqhl"
+  },
+  {
+    "id": "valn7erv",
+    "date": "2026-10-07",
+    "name": "The AI Coffee Break",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 27,
+    "luma_url": "https://lu.ma/valn7erv"
   },
   {
     "id": "4266q2zq",
@@ -230,6 +240,26 @@
     "luma_url": "https://lu.ma/https://partiful.com/e/MbViHdsPkuuaTGvqWldA"
   },
   {
+    "id": "https://partiful.com/e/IZVriYif8cxjKyEuJEgO",
+    "date": "2026-10-06",
+    "name": "Niural AI + Corgi Cafe = Free Espresso Cold  Foam Float! #sftechweek",
+    "format": "Other",
+    "partner": null,
+    "location": "Online",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/https://partiful.com/e/IZVriYif8cxjKyEuJEgO"
+  },
+  {
+    "id": "https://partiful.com/e/xWOLkVDQgoMXpVDvjYcd",
+    "date": "2026-10-06",
+    "name": "Eatopia Breakfast Lab: Build your nutrition protocol - #SFTechWeek",
+    "format": "Other",
+    "partner": null,
+    "location": "Online",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/https://partiful.com/e/xWOLkVDQgoMXpVDvjYcd"
+  },
+  {
     "id": "copilo-y6wx",
     "date": "2026-10-06",
     "name": "Ship it & Sip it: Software Factories Night",
@@ -248,26 +278,6 @@
     "location": "San Francisco",
     "attendees": 0,
     "luma_url": "https://lu.ma/4xjpmq1m"
-  },
-  {
-    "id": "https://partiful.com/e/xWOLkVDQgoMXpVDvjYcd",
-    "date": "2026-10-06",
-    "name": "Eatopia Breakfast Lab: Build your nutrition protocol - #SFTechWeek",
-    "format": "Other",
-    "partner": null,
-    "location": "Online",
-    "attendees": 0,
-    "luma_url": "https://lu.ma/https://partiful.com/e/xWOLkVDQgoMXpVDvjYcd"
-  },
-  {
-    "id": "https://partiful.com/e/IZVriYif8cxjKyEuJEgO",
-    "date": "2026-10-06",
-    "name": "Niural AI + Corgi Cafe = Free Espresso Cold  Foam Float! #sftechweek",
-    "format": "Other",
-    "partner": null,
-    "location": "Online",
-    "attendees": 0,
-    "luma_url": "https://lu.ma/https://partiful.com/e/IZVriYif8cxjKyEuJEgO"
   },
   {
     "id": "metaview-corgi",
@@ -1226,7 +1236,7 @@
     "format": "Panel",
     "partner": "Girls Into VC",
     "location": "San Francisco",
-    "attendees": 71,
+    "attendees": 70,
     "luma_url": "https://lu.ma/bfedo8op"
   },
   {
