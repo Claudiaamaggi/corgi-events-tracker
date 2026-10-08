@@ -150,6 +150,26 @@
     "luma_url": "https://lu.ma/https://partiful.com/e/ohe79rq9R52103Z0F9Eb?"
   },
   {
+    "id": "b54ojqhl",
+    "date": "2026-10-07",
+    "name": "\"Build an Agent\" Hackathon",
+    "format": "Hackathon",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 352,
+    "luma_url": "https://lu.ma/b54ojqhl"
+  },
+  {
+    "id": "https://partiful.com/e/6llvnZW8jlWdXZFXKOMH",
+    "date": "2026-10-07",
+    "name": "Mercury & Supabase Happy Hour #SFTechWeek",
+    "format": "Networking",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/https://partiful.com/e/6llvnZW8jlWdXZFXKOMH"
+  },
+  {
     "id": "https://partiful.com/e/h1bzMYbQtoRvUkL4jrQk?c=ozIJkt5l",
     "date": "2026-10-07",
     "name": "NYX AI BUILDERS NIGHT #SFTechWeek",
@@ -168,26 +188,6 @@
     "location": "Alameda",
     "attendees": 0,
     "luma_url": "https://lu.ma/zja76ejz"
-  },
-  {
-    "id": "https://partiful.com/e/6llvnZW8jlWdXZFXKOMH",
-    "date": "2026-10-07",
-    "name": "Mercury & Supabase Happy Hour #SFTechWeek",
-    "format": "Networking",
-    "partner": null,
-    "location": "San Francisco",
-    "attendees": 0,
-    "luma_url": "https://lu.ma/https://partiful.com/e/6llvnZW8jlWdXZFXKOMH"
-  },
-  {
-    "id": "b54ojqhl",
-    "date": "2026-10-07",
-    "name": "\"Build an Agent\" Hackathon",
-    "format": "Hackathon",
-    "partner": null,
-    "location": "San Francisco",
-    "attendees": 318,
-    "luma_url": "https://lu.ma/b54ojqhl"
   },
   {
     "id": "valn7erv",
@@ -770,16 +770,6 @@
     "luma_url": "https://lu.ma/qtuxy56z"
   },
   {
-    "id": "j4pqtkhp",
-    "date": "2026-08-02",
-    "name": "Corgi Cafe: Dogpatch Open House",
-    "format": "Other",
-    "partner": null,
-    "location": "San Francisco",
-    "attendees": 364,
-    "luma_url": "https://lu.ma/j4pqtkhp"
-  },
-  {
     "id": "d04ciyns",
     "date": "2026-08-02",
     "name": "Rooftop Happy Hour",
@@ -788,6 +778,16 @@
     "location": "San Francisco",
     "attendees": 0,
     "luma_url": "https://lu.ma/d04ciyns"
+  },
+  {
+    "id": "j4pqtkhp",
+    "date": "2026-08-02",
+    "name": "Corgi Cafe: Dogpatch Open House",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 364,
+    "luma_url": "https://lu.ma/j4pqtkhp"
   },
   {
     "id": "frzdck41",
