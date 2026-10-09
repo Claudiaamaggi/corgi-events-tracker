@@ -60,14 +60,14 @@
     "luma_url": "https://lu.ma/eeapccyv"
   },
   {
-    "id": "https://partiful.com/e/v7PZURe354ptseSvhzzr?",
+    "id": "https://partiful.com/e/FNKowDUHjje8rDxcxWj9",
     "date": "2026-10-09",
-    "name": "Scaling without \"Risk\" in play: Compliance + Insurance for Startups - #SFTechWeek",
+    "name": "Mercury Presents: YC F26 Kickoff Roller Disco",
     "format": "Other",
     "partner": null,
     "location": "Online",
     "attendees": 0,
-    "luma_url": "https://lu.ma/https://partiful.com/e/v7PZURe354ptseSvhzzr?"
+    "luma_url": "https://lu.ma/https://partiful.com/e/FNKowDUHjje8rDxcxWj9"
   },
   {
     "id": "https://partiful.com/e/935FqbXiitx8b9bjqDmU",
@@ -80,14 +80,14 @@
     "luma_url": "https://lu.ma/https://partiful.com/e/935FqbXiitx8b9bjqDmU"
   },
   {
-    "id": "https://partiful.com/e/FNKowDUHjje8rDxcxWj9",
+    "id": "https://partiful.com/e/v7PZURe354ptseSvhzzr?",
     "date": "2026-10-09",
-    "name": "Mercury Presents: YC F26 Kickoff Roller Disco",
+    "name": "Scaling without \"Risk\" in play: Compliance + Insurance for Startups - #SFTechWeek",
     "format": "Other",
     "partner": null,
     "location": "Online",
     "attendees": 0,
-    "luma_url": "https://lu.ma/https://partiful.com/e/FNKowDUHjje8rDxcxWj9"
+    "luma_url": "https://lu.ma/https://partiful.com/e/v7PZURe354ptseSvhzzr?"
   },
   {
     "id": "https://partiful.com/e/MNgD0Ir4CmpbvFRZ62VX",
@@ -130,16 +130,6 @@
     "luma_url": "https://lu.ma/https://partiful.com/e/v7PZURe354ptseSvhzzr"
   },
   {
-    "id": "https://partiful.com/e/zaE62kAf1JUoZxtdT82h",
-    "date": "2026-10-08",
-    "name": "Demo Night - Corgi, EF, Infragrid - #SFTechWeek",
-    "format": "Demo day",
-    "partner": null,
-    "location": "Online",
-    "attendees": 0,
-    "luma_url": "https://lu.ma/https://partiful.com/e/zaE62kAf1JUoZxtdT82h"
-  },
-  {
     "id": "https://partiful.com/e/ohe79rq9R52103Z0F9Eb?",
     "date": "2026-10-08",
     "name": "Bring your agent to Breakfast\n#SFTechWeek",
@@ -148,6 +138,16 @@
     "location": "Online",
     "attendees": 0,
     "luma_url": "https://lu.ma/https://partiful.com/e/ohe79rq9R52103Z0F9Eb?"
+  },
+  {
+    "id": "https://partiful.com/e/zaE62kAf1JUoZxtdT82h",
+    "date": "2026-10-08",
+    "name": "Demo Night - Corgi, EF, Infragrid - #SFTechWeek",
+    "format": "Demo day",
+    "partner": null,
+    "location": "Online",
+    "attendees": 0,
+    "luma_url": "https://lu.ma/https://partiful.com/e/zaE62kAf1JUoZxtdT82h"
   },
   {
     "id": "b54ojqhl",
@@ -1366,7 +1366,7 @@
     "format": "Other",
     "partner": "Voker",
     "location": "San Francisco",
-    "attendees": 21,
+    "attendees": 20,
     "luma_url": "https://lu.ma/9722g53g"
   },
   {
