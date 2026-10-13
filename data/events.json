@@ -10,6 +10,16 @@
     "luma_url": "https://lu.ma/hhyszjb9"
   },
   {
+    "id": "l67727uo",
+    "date": "2026-11-12",
+    "name": "Agent Building & Founder Networking Salon",
+    "format": "Workshop",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 48,
+    "luma_url": "https://lu.ma/l67727uo"
+  },
+  {
     "id": "usecorgi-fda6",
     "date": "2026-10-29",
     "name": "Pancake AI x Corgi",
@@ -46,8 +56,18 @@
     "format": "Other",
     "partner": "Knock",
     "location": "San Francisco",
-    "attendees": 41,
+    "attendees": 49,
     "luma_url": "https://lu.ma/bqy5ahct"
+  },
+  {
+    "id": "usecorgi-o23u",
+    "date": "2026-10-13",
+    "name": "Willow x Corgi: Chug the World’s Spookiest Drink",
+    "format": "Other",
+    "partner": null,
+    "location": "San Francisco",
+    "attendees": 9,
+    "luma_url": "https://lu.ma/usecorgi-o23u"
   },
   {
     "id": "https://partiful.com/e/7mBJK6qkKf09A8PaBMKf",
@@ -316,7 +336,7 @@
     "format": "Other",
     "partner": null,
     "location": "San Francisco",
-    "attendees": 15,
+    "attendees": 17,
     "luma_url": "https://lu.ma/usecorgi-wphl"
   },
   {
